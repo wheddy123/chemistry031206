@@ -19,10 +19,15 @@ Mỗi chuyên đề gồm: (A) Lý thuyết chi tiết → (B) Bảng nhớ nhan
 
 ## Trạng thái các khâu
 
-- [ ] Ma trận kiến thức & khung bài chuẩn
-- [ ] Biên soạn 10 chuyên đề (4 tác giả song song)
-- [ ] Kiểm chứng chéo (tính lại đáp án)
-- [ ] Thẩm định & giải trình
-- [ ] Chế bản Word (.docx, A4, in được)
-- [ ] Hiệu đính & duyệt bông
-- [ ] Phát hành — giao bản in cho Phong
+- [x] Ma trận kiến thức & khung bài chuẩn
+- [x] Biên soạn 10 chuyên đề (4 tác giả song song)
+- [x] Kiểm chứng chéo (tính lại đáp án)
+- [x] Thẩm định & giải trình
+- [x] Chế bản Word (.docx, A4, in được)
+- [x] Hiệu đính & duyệt bông
+- [x] Phát hành — giao bản in cho Phong
+
+## Phát hành
+
+- **Trạng thái:** ĐÃ PHÁT HÀNH 22/11/2026 — 81 trang, 142 câu bài tập (102 TN + 10 đúng/sai + 30 TLN), 25/25 góp ý kiểm chứng/thẩm định đã tiếp thu & giải trình.
+- File trong thư mục này: bản in .docx, bản nguồn .md, báo cáo thẩm định, ma trận kiến thức.
