@@ -11,20 +11,208 @@
 - **Phần III:** 6 câu trả lời ngắn.
 - **Thời gian làm bài:** 50 phút.
 
+**Bản tái bản 1.1 (22/11/2026):** Đã vá toàn bộ lỗi hiển thị ký hiệu của bản 1.0; bổ sung Phụ lục N (nền lớp 10–11: enthalpy chuẩn và liên kết σ, π); bổ sung lý thuyết điểm thiếu ở các chuyên đề 1, 3, 5, 6, 7, 9, 10; thêm 11 câu trả lời ngắn mức vận dụng và bài tập đọc phổ từ hình thật ở Chuyên đề 1–2.
+
 **Phạm vi ôn tập (theo thông báo giới hạn thi):**
 - **Phần A — Lớp 11:** Phổ IR; Phổ MS; Hydrocarbon không no; Alcohol (+ bổ trợ phenol); Andehit; Acid carboxylic.
 - **Phần B — Lớp 12 (hết chương 4):** Ester – Lipid; Carbohydrate; Hợp chất chứa nitrogen; Polymer.
 
 **Mục lục:**
+- Phụ lục N: Nền tảng lớp 10–11 (enthalpy chuẩn và liên kết σ, π) — học trước Phần A.
+- Hình phổ thật: phổ IR của acetic acid (Chuyên đề 1) và phổ MS của ethyl acetate (Chuyên đề 2), nhúng trong phần bài tập.
 - Phần A — Lớp 11: Chuyên đề 1: Phổ hồng ngoại (IR) · Chuyên đề 2: Phổ khối lượng (MS) · Chuyên đề 3: Hydrocarbon không no · Chuyên đề 4: Alcohol · Chuyên đề 5: Andehit · Chuyên đề 6: Acid carboxylic.
 - Phần B — Lớp 12: Chuyên đề 7: Ester – Lipid · Chuyên đề 8: Carbohydrate · Chuyên đề 9: Hợp chất chứa nitrogen · Chuyên đề 10: Polymer.
 - Phụ lục: Bảng tổng hợp thuốc thử (nước bromine và Cu(OH)₂ qua các chuyên đề).
 - Đáp án và lời giải (cuối tài liệu).
 
+**Tổng số bài tập:** 162 câu (104 trắc nghiệm, 12 câu đúng/sai, 46 câu trả lời ngắn).
+
 **Hướng dẫn sử dụng (theo mức độ hổng đã chẩn đoán):**
-- Thứ tự ưu tiên ôn: **CĐ1–CĐ2 (đọc phổ)** → **CĐ7–CĐ8 (bài toán nhiều bước, hiệu suất, chỉ số xà phòng hóa)** → CĐ3–CĐ6 → CĐ9–CĐ10.
+- Thứ tự ưu tiên ôn: **Phụ lục N (nền 10–11) + CĐ1–CĐ2 (đọc phổ)** → CĐ7–CĐ8 → CĐ3–CĐ6 → CĐ9–CĐ10.
 - Mỗi chuyên đề: học (A), xem (B) và ví dụ mẫu (nếu có), rồi làm (C) trong **25–30 phút** như thi thật; chỉ dò đáp án ở cuối sách sau khi làm xong.
 - Phần III của đề thật là nơi mất điểm nhiều nhất: ưu tiên lấy trọn điểm các câu TLN trong đề cương trước khi nâng độ khó.
+
+---
+
+## Phụ lục N: Nền tảng lớp 10–11 (enthalpy và liên kết σ, π)
+
+Phụ lục này bổ sung hai nền tảng của lớp 10–11 hay bị hổng khi lên các chuyên đề hữu cơ: tính **biến thiên enthalpy chuẩn của phản ứng** và **đếm liên kết σ, π** trong công thức cấu tạo. Cả hai đều xuất hiện trực tiếp trong các câu Phần II và Phần III của đề khảo sát.
+
+### N.1 Biến thiên enthalpy chuẩn của phản ứng
+
+**Biến thiên enthalpy chuẩn của phản ứng**, kí hiệu ΔrH°₂₉₈, là lượng nhiệt kèm theo phản ứng xảy ra ở điều kiện chuẩn (áp suất 1 bar, nhiệt độ 298 K, các chất ở trạng thái chuẩn), tính cho đúng số mol theo phương trình đã cân bằng.
+
+**Ý nghĩa dấu — nhớ trước khi tính:**
+
+- ΔrH°₂₉₈ < 0: phản ứng **tỏa nhiệt** (hệ nhường nhiệt ra môi trường).
+- ΔrH°₂₉₈ > 0: phản ứng **thu nhiệt** (hệ nhận nhiệt từ môi trường).
+- ΔrH°₂₉₈ = 0: hầu như không trao đổi nhiệt (trường hợp hiếm, thường chỉ gặp ở bài tập quy ước).
+
+**Cách 1 — Theo nhiệt tạo thành chuẩn ΔfH°₂₉₈**
+
+**Nhiệt tạo thành chuẩn** ΔfH°₂₉₈ của một chất là biến thiên enthalpy của phản ứng tạo thành 1 mol chất đó từ các đơn chất bền ở điều kiện chuẩn.
+
+Quy ước bắt buộc: **ΔfH°₂₉₈ của đơn chất bền bằng 0**. Ví dụ: O₂(g), H₂(g), C(graphite), Na(s) đều có ΔfH°₂₉₈ = 0 kJ/mol.
+
+Công thức:
+
+ΔrH°₂₉₈ = ΣΔfH°₂₉₈(sản phẩm) − ΣΔfH°₂₉₈(chất đầu)
+
+Trong đó mỗi số hạng phải **nhân với hệ số tỉ lượng** của chất đó trong phương trình đã cân bằng. Quên nhân hệ số là lỗi sai phổ biến nhất ở dạng bài này.
+
+**Cách 2 — Theo năng lượng liên kết Eb**
+
+**Năng lượng liên kết** Eb là năng lượng cần cung cấp để phá vỡ 1 mol liên kết đó thành các nguyên tử ở thể khí. Phá vỡ liên kết luôn **tốn** năng lượng (dấu +), hình thành liên kết mới luôn **tỏa** năng lượng (dấu −).
+
+Công thức:
+
+ΔrH°₂₉₈ = ΣEb(liên kết bị phá vỡ, ở chất đầu) − ΣEb(liên kết mới hình thành, ở sản phẩm)
+
+**Chiều dấu của hai công thức KHÁC nhau — phải hiểu vì sao, không học vẹt:**
+
+- Công thức nhiệt tạo thành đi theo đường vòng: chất đầu → đơn chất → sản phẩm. Đoạn chất đầu → đơn chất là chiều ngược của tạo thành nên đổi dấu, vì vậy mới có dạng **sản phẩm trừ chất đầu**.
+- Công thức năng lượng liên kết đi theo đường vòng: chất đầu → nguyên tử tự do → sản phẩm. Đoạn đầu phá vỡ hết liên kết của chất đầu (tốn năng lượng, cộng Eb của chất đầu), đoạn sau hình thành liên kết của sản phẩm (tỏa năng lượng, trừ Eb của sản phẩm), vì vậy có dạng **chất đầu trừ sản phẩm**.
+- Kết luận nhớ nhanh: **theo ΔfH° thì "sau trừ trước", theo Eb thì "trước trừ sau"**. Áp dụng ngược chiều là sai toàn bộ dấu của bài.
+
+Lưu ý áp dụng: công thức năng lượng liên kết cho kết quả chính xác nhất với các chất ở thể khí; với chất lỏng/rắn, kết quả chỉ là gần đúng.
+
+**Ví dụ mẫu N.1.1 — Tính theo nhiệt tạo thành chuẩn**
+
+Tính biến thiên enthalpy chuẩn của phản ứng đốt cháy hoàn toàn methane:
+
+CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)
+
+Cho ΔfH°₂₉₈ (kJ/mol): CH₄(g) = −74,8; CO₂(g) = −393,5; H₂O(l) = −285,8; O₂(g) = 0.
+
+Lời giải:
+
+Bước 1 — Tổng nhiệt tạo thành của sản phẩm (nhớ nhân hệ số):
+
+ΣΔfH°₂₉₈(sản phẩm) = 1 × (−393,5) + 2 × (−285,8) = −393,5 − 571,6 = −965,1 kJ
+
+Bước 2 — Tổng nhiệt tạo thành của chất đầu:
+
+ΣΔfH°₂₉₈(chất đầu) = 1 × (−74,8) + 2 × 0 = −74,8 kJ
+
+Bước 3 — Áp dụng công thức "sản phẩm trừ chất đầu":
+
+ΔrH°₂₉₈ = −965,1 − (−74,8) = −890,3 kJ
+
+Kết luận: ΔrH°₂₉₈ = **−890,3 kJ** cho 1 mol CH₄ cháy. Dấu âm khớp với thực tế: phản ứng đốt cháy **tỏa nhiệt** mạnh.
+
+**Ví dụ mẫu N.1.2 — Tính theo năng lượng liên kết**
+
+Tính biến thiên enthalpy chuẩn gần đúng của phản ứng đốt cháy hoàn toàn methane ở thể khí:
+
+CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g)
+
+Cho năng lượng liên kết Eb (kJ/mol): C–H = 413; O=O = 498; C=O trong CO₂ = 799; O–H = 463.
+
+Lời giải:
+
+Bước 1 — Liệt kê liên kết bị phá vỡ (ở chất đầu), nhìn trên công thức cấu tạo:
+
+- CH₄ có 4 liên kết C–H: 4 × 413 = 1652 kJ
+- 2 phân tử O₂ có 2 liên kết O=O: 2 × 498 = 996 kJ
+- Tổng phá vỡ: 1652 + 996 = 2648 kJ
+
+Bước 2 — Liệt kê liên kết mới hình thành (ở sản phẩm):
+
+- CO₂ có cấu tạo O=C=O, tức 2 liên kết C=O: 2 × 799 = 1598 kJ
+- 2 phân tử H₂O có 4 liên kết O–H: 4 × 463 = 1852 kJ
+- Tổng hình thành: 1598 + 1852 = 3450 kJ
+
+Bước 3 — Áp dụng công thức "chất đầu trừ sản phẩm":
+
+ΔrH°₂₉₈ = 2648 − 3450 = −802 kJ
+
+Kết luận: ΔrH°₂₉₈ ≈ **−802 kJ** cho 1 mol CH₄ cháy. Giá trị này khác −890,3 kJ ở Ví dụ N.1.1 vì hai lí do: ở đây sản phẩm là H₂O(g) thay vì H₂O(l) (không có nhiệt ngưng tụ) và Eb là giá trị trung bình nên kết quả chỉ gần đúng. Hai ví dụ cho hai số khác nhau là **bình thường**, không phải tính sai.
+
+**Bài tập N.1**
+
+**Câu N.1.1 (Đúng/Sai).** Cho phản ứng đốt cháy hydrogen: 2H₂(g) + O₂(g) → 2H₂O(l), có ΔrH°₂₉₈ = −571,6 kJ. Xét các phát biểu sau:
+
+a) Phản ứng trên là phản ứng tỏa nhiệt vì ΔrH°₂₉₈ < 0.
+b) ΔfH°₂₉₈ của O₂(g) và của H₂(g) đều bằng 0 kJ/mol vì chúng là đơn chất bền ở điều kiện chuẩn.
+c) Khi tính ΔrH°₂₉₈ theo năng lượng liên kết, ta lấy tổng Eb của sản phẩm trừ tổng Eb của chất đầu.
+d) Từ dữ kiện trên, nhiệt tạo thành chuẩn của H₂O(l) là −285,8 kJ/mol.
+
+**Câu N.1.2 (Trả lời ngắn).** Tính biến thiên enthalpy chuẩn (kJ) của phản ứng đốt cháy hoàn toàn 1 mol propane:
+
+C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l)
+
+Cho ΔfH°₂₉₈ (kJ/mol): C₃H₈(g) = −103,8; CO₂(g) = −393,5; H₂O(l) = −285,8.
+
+**Câu N.1.3 (Trả lời ngắn).** Tính biến thiên enthalpy chuẩn gần đúng (kJ) của phản ứng đốt cháy hoàn toàn 1 mol ethanol ở thể khí:
+
+C₂H₅OH(g) + 3O₂(g) → 2CO₂(g) + 3H₂O(g)
+
+Cho năng lượng liên kết Eb (kJ/mol): C–H = 413; C–C = 347; C–O = 358; O–H = 463; O=O = 498; C=O trong CO₂ = 799. Gợi ý: phân tử ethanol CH₃–CH₂–OH chứa 5 liên kết C–H, 1 liên kết C–C, 1 liên kết C–O và 1 liên kết O–H.
+
+
+### N.2 Đếm liên kết σ và π
+
+**Liên kết σ (sigma)** là liên kết hình thành do sự xen phủ dọc theo trục nối hai hạt nhân. **Liên kết π (pi)** là liên kết hình thành do sự xen phủ bên, chỉ xuất hiện trong liên kết bội.
+
+**Quy tắc theo bậc liên kết — thuộc lòng:**
+
+- Liên kết đơn: 1σ + 0π.
+- Liên kết đôi: 1σ + 1π.
+- Liên kết ba: 1σ + 2π.
+
+Hệ quả thực dụng: **mọi liên kết đều chứa đúng 1 liên kết σ**, phần "thừa" của liên kết bội mới là π.
+
+**Phương pháp đếm thực dụng (áp dụng cho cả công thức khai triển và thu gọn):**
+
+- Bước 1 — Đếm σ: tổng số liên kết σ bằng **tổng số cặp nguyên tử liên kết trực tiếp với nhau**. Mỗi vạch nối hai nguyên tử trong công thức cấu tạo, dù là vạch đơn, vạch đôi hay vạch ba, đều đóng góp đúng 1 vào số σ. **Liên kết với H cũng tính** (mỗi liên kết C–H, O–H, N–H là 1σ) — đây là chỗ thí sinh hay đếm thiếu nhất. Phân tử có vòng thì các liên kết tạo vòng cũng là liên kết σ và phải đếm đủ.
+- Bước 2 — Đếm π: số liên kết π bằng **tổng của (bậc liên kết − 1)** tính trên tất cả các liên kết bội. Mỗi liên kết đôi góp 1π, mỗi liên kết ba góp 2π, liên kết đơn góp 0.
+- Bước 3 — Kiểm tra chéo (với phân tử không vòng): số cặp nguyên tử liên kết trực tiếp = tổng số nguyên tử trong phân tử − 1. Nếu đếm σ ra khác số này mà phân tử không có vòng thì đã đếm sai, đếm lại. Có một vòng thì số σ lớn hơn giá trị trên đúng 1.
+
+**Ví dụ mẫu N.2.1 — Ethyl acetate CH₃COOCH₂CH₃**
+
+Cấu tạo khai triển: CH₃–C(=O)–O–CH₂–CH₃. Phân tử có 4 C, 8 H, 2 O, tổng 14 nguyên tử, không vòng.
+
+Đếm σ theo từng cặp nguyên tử liên kết trực tiếp:
+
+- Nhóm CH₃ đầu trái: 3 liên kết C–H và 1 liên kết C–C nối sang carbon carbonyl: 4σ.
+- Carbon carbonyl: 1 liên kết tới O của C=O (liên kết đôi vẫn chỉ tính 1σ) và 1 liên kết đơn tới O cầu nối: 2σ (liên kết C–C nối về CH₃ đã đếm ở trên, không đếm lại).
+- O cầu nối: 1 liên kết O–CH₂: 1σ (liên kết tới carbon carbonyl đã đếm).
+- Nhóm CH₂: 2 liên kết C–H và 1 liên kết C–C nối sang CH₃ cuối: 3σ.
+- Nhóm CH₃ cuối: 3 liên kết C–H: 3σ.
+
+Tổng σ = 4 + 2 + 1 + 3 + 3 = **13σ**. Kiểm tra chéo: 14 nguyên tử − 1 = 13, khớp.
+
+Đếm π: chỉ có 1 liên kết đôi C=O, góp 2 − 1 = 1π. Các liên kết còn lại đều là đơn, góp 0.
+
+Kết luận: ethyl acetate có **13 liên kết σ và 1 liên kết π**.
+
+**Ví dụ mẫu N.2.2 — Glycine H₂N–CH₂–COOH**
+
+Cấu tạo khai triển: H₂N–CH₂–C(=O)–OH. Phân tử có 2 C, 5 H, 1 N, 2 O, tổng 10 nguyên tử, không vòng.
+
+Đếm σ theo từng cặp nguyên tử liên kết trực tiếp:
+
+- Nhóm –NH₂: 2 liên kết N–H và 1 liên kết N–C: 3σ.
+- Nhóm CH₂: 2 liên kết C–H và 1 liên kết C–C nối sang carbon của –COOH: 3σ (liên kết N–C đã đếm ở trên).
+- Carbon của –COOH: 1 liên kết tới O của C=O (tính 1σ) và 1 liên kết đơn C–O: 2σ (liên kết C–C đã đếm).
+- Nhóm –OH: 1 liên kết O–H: 1σ.
+
+Tổng σ = 3 + 3 + 2 + 1 = **9σ**. Kiểm tra chéo: 10 nguyên tử − 1 = 9, khớp.
+
+Đếm π: 1 liên kết đôi C=O góp 1π.
+
+Kết luận: glycine có **9 liên kết σ và 1 liên kết π**.
+
+**Bài tập N.2**
+
+**Câu N.2.1 (Đúng/Sai).** Triolein là chất béo có công thức phân tử C₅₇H₁₀₄O₆, cấu tạo gồm gốc glycerol liên kết ester với 3 gốc acid oleic. Trong phân tử triolein có đúng 3 liên kết C=C và 3 liên kết C=O, ngoài ra không có liên kết bội nào khác và không có vòng. Xét các phát biểu sau:
+
+a) Mỗi liên kết đôi C=C trong triolein gồm 1 liên kết σ và 1 liên kết π.
+b) Tổng số liên kết π trong phân tử triolein là 6.
+c) Tổng số liên kết σ trong phân tử triolein là 166.
+d) Nếu chỉ đếm các liên kết giữa các nguyên tử C và O mà bỏ qua mọi liên kết với H thì vẫn đếm đủ số liên kết σ của triolein.
+
+**Câu N.2.2 (Trả lời ngắn).** Phân tử acetaldehyde có công thức cấu tạo CH₃–CHO (nhóm –CHO là –C(=O)–H). Cho biết tổng số liên kết σ và số liên kết π trong một phân tử acetaldehyde. Ghi đáp án theo dạng: số σ trước, số π sau.
 
 ---
 
@@ -58,6 +246,16 @@ Lưu ý quan trọng:
 - O–H của **alcohol**: đỉnh rộng, tù, khoảng 3200–3600 cm⁻¹, **không** kèm C=O.
 - O–H của **carboxylic acid**: đỉnh **rất rộng**, khoảng 2500–3300 cm⁻¹, chồng lấp cả vùng C–H, và **luôn kèm** pic C=O mạnh ở khoảng 1700–1750 cm⁻¹.
 - C=O là pic dễ nhận biết nhất: **mạnh và nhọn**, khoảng 1700–1750 cm⁻¹.
+
+### Phổ IR phân biệt bậc của amine qua pic N–H
+
+Vùng pic **N–H** trên phổ IR nằm ở khoảng **3300–3500 cm⁻¹**. Số lượng pic trong vùng này cho biết bậc của amine:
+
+- **Amine bậc 1** (nhóm –NH₂): có **2 pic** N–H, vì nhóm –NH₂ có hai liên kết N–H dao động không hoàn toàn đồng bộ.
+- **Amine bậc 2** (nhóm –NH–): có **1 pic** N–H, vì chỉ còn một liên kết N–H.
+- **Amine bậc 3**: **không có pic N–H**, vì không còn nguyên tử H nào gắn trực tiếp với N.
+
+Mẹo nhớ: **số pic N–H bằng số H gắn trên N** (2, 1, 0 tương ứng với bậc 1, 2, 3). Lưu ý phân biệt với pic O–H của alcohol (rộng, tù, khoảng 3200–3600 cm⁻¹): pic N–H thường hẹp hơn và amine bậc 1 cho đúng 2 pic nhọn cạnh nhau là dấu hiệu rất đặc trưng.
 
 ### (B) Bảng/công thức nhớ nhanh
 
@@ -138,6 +336,14 @@ B. Alcohol.
 C. Ester.
 D. Acid carboxylic.
 
+![Phổ IR của acetic acid](pho-IR.png)
+
+**Câu 1.15.** Dựa vào hình phổ IR của acetic acid, pic mạnh nhọn ở khoảng 1715 cm⁻¹ thuộc về liên kết nào?
+A. O–H
+B. C=O
+C. C–O
+D. C–H
+
 **Câu 1.11 (Đúng/Sai).** Xét các phát biểu về phổ IR:
 a) Pic C=O trên phổ IR thường mạnh, nhọn và nằm ở khoảng 1700–1750 cm⁻¹.
 b) Pic O–H của alcohol thường nhọn và hẹp giống pic C=O.
@@ -149,6 +355,8 @@ d) Pic ở vùng 1000–1300 cm⁻¹ có thể đặc trưng cho liên kết C�
 **Câu 1.13 (TLN).** Hợp chất Y có phổ IR: pic mạnh, nhọn ở 1710 cm⁻¹ và dải hấp thụ rất rộng từ 2600–3300 cm⁻¹. Y chứa nhóm chức nào? Viết công thức của nhóm chức đó.
 
 **Câu 1.14 (TLN).** Cho ba chất: ethanol, acetic acid và propanone (acetone). Một phổ IR (phổ A) có pic mạnh ở 1715 cm⁻¹ và không có dải O–H rộng. Phổ A là của chất nào trong ba chất trên?
+
+**Câu 1.16 (TLN).** Dải hấp thụ rất rộng 2500–3300 cm⁻¹ trong phổ IR của acetic acid (hình phổ ở Câu 1.15) là của nhóm O–H trong loại hợp chất nào? Vì sao phân biệt được dải này với dải O–H của alcohol?
 
 ---
 
@@ -259,6 +467,14 @@ B. ion phân tử chứa đồng vị ⁷⁹Br (m/z = 94) và đồng vị ⁸¹
 C. pic cơ sở và pic nhiễu.
 D. ion phân tử và ion phân tử đã mất 2 electron.
 
+![Phổ MS của ethyl acetate](pho-MS.png)
+
+**Câu 2.15.** Pic cơ sở (base peak) của phổ MS của ethyl acetate (hình phổ kèm theo trên đây) là pic có m/z bằng bao nhiêu?
+A. 88
+B. 61
+C. 43
+D. 29
+
 **Câu 2.11 (Đúng/Sai).** Xét các phát biểu về phổ MS:
 a) Pic cơ sở luôn chính là pic ion phân tử M⁺•.
 b) Pic ion phân tử M⁺• cho biết phân tử khối của hợp chất.
@@ -270,6 +486,8 @@ d) Phổ MS là phương pháp chính để xác định nhóm chức như phổ
 **Câu 2.13 (TLN).** Một hợp chất chứa 1 nguyên tử Cl có hai pic ion phân tử ở m/z = 78 và m/z = 80 với tỉ lệ cường độ khoảng 3 : 1. Phân tử khối của hợp chất (ứng với đồng vị ³⁵Cl) bằng bao nhiêu?
 
 **Câu 2.14 (TLN).** Ethanol có công thức C₂H₆O. Trên phổ MS của ethanol, pic ion phân tử M⁺• xuất hiện ở m/z bằng bao nhiêu?
+
+**Câu 2.16 (TLN).** Dựa vào biểu đồ phổ khối lượng (MS) của ethyl acetate (CH₃COOC₂H₅) ở Câu 2.15, hãy xác định phân tử khối của chất. Cần nêu rõ pic nào là pic ion phân tử M⁺• và vì sao không chọn pic ở m/z 89.
 
 ---
 
@@ -310,37 +528,37 @@ Lưu ý khi đếm đồng phân: phải nói rõ đang đếm **đồng phân c
 
 a) **Phản ứng cộng H₂** (xúc tác Ni hoặc Pt/Pd, nhiệt độ):
 
-$$CH_2=CH_2 + H_2 \xrightarrow{Ni,\ t^\circ} CH_3-CH_3$$
+CH₂=CH₂ + H₂ → (Ni, t°) CH₃-CH₃
 
 Tổng quát: alkene + H₂ → alkane tương ứng.
 
 b) **Phản ứng cộng Br₂** — làm mất màu nước bromine (màu nâu đỏ → không màu), dùng để **nhận biết** liên kết đôi/ba:
 
-$$CH_2=CH_2 + Br_2 \rightarrow CH_2Br-CH_2Br$$
+CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br
 
 c) **Phản ứng cộng HX (X = Cl, Br...) — quy tắc Markovnikov:** Khi cộng HX vào alkene bất đối, nguyên tử H ưu tiên cộng vào carbon của liên kết đôi **đã có nhiều H hơn** (carbon bậc thấp hơn), còn X cộng vào carbon có ít H hơn (bậc cao hơn), cho sản phẩm chính.
 
-$$CH_2=CH-CH_3 + HBr \rightarrow CH_3-CHBr-CH_3 \text{ (sản phẩm chính, 2-bromopropane)}$$
+CH₂=CH-CH₃ + HBr → CH₃-CHBr-CH₃ (sản phẩm chính, 2-bromopropane)
 
 d) **Phản ứng cộng H₂O** (xúc tác acid, nhiệt độ; tuân theo quy tắc Markovnikov với alkene bất đối):
 
-$$CH_2=CH_2 + H_2O \xrightarrow{H^+,\ t^\circ} CH_3-CH_2OH$$
+CH₂=CH₂ + H₂O → (H⁺, t°) CH₃-CH₂OH
 
 e) **Phản ứng trùng hợp:** Ở nhiệt độ, áp suất và xúc tác thích hợp, các phân tử alkene cộng hợp liên tiếp tạo polymer.
 
-$$n\,CH_2=CH_2 \xrightarrow{t^\circ,\ p,\ xt} -(CH_2-CH_2)_n- \quad \text{(polyethylene, PE)}$$
+n CH₂=CH₂ → (t°, p, xt) –(CH₂–CH₂)ₙ– (polyethylene, PE)
 
-$$n\,CH_2=CH-CH_3 \xrightarrow{t^\circ,\ p,\ xt} -(CH_2-CH(CH_3))_n- \quad \text{(polypropylene, PP)}$$
+n CH₂=CH-CH₃ → (t°, p, xt) –(CH₂–CH(CH₃))ₙ– (polypropylene, PP)
 
 f) **Phản ứng oxi hóa bằng KMnO₄ (dung dịch loãng, điều kiện thường):** Alkene làm **mất màu tím** của dung dịch KMnO₄, tạo diol (hợp chất có hai nhóm –OH ở hai carbon kề nhau) và kết tủa nâu đen MnO₂. Phản ứng này cũng dùng để nhận biết liên kết đôi/ba.
 
-$$3CH_2=CH_2 + 2KMnO_4 + 4H_2O \rightarrow 3CH_2(OH)-CH_2(OH) + 2MnO_2\downarrow + 2KOH$$
+3CH₂=CH₂ + 2KMnO₄ + 4H₂O → 3CH₂(OH)-CH₂(OH) + 2MnO₂↓ + 2KOH
 
 Sản phẩm hữu cơ của ethylene là **ethylene glycol** HO–CH₂–CH₂–OH.
 
 g) **Phản ứng cháy:**
 
-$$C_2H_4 + 3O_2 \xrightarrow{t^\circ} 2CO_2 + 2H_2O$$
+C₂H₄ + 3O₂ → (t°) 2CO₂ + 2H₂O
 
 Tổng quát alkene: CₙH₂ₙ + (3n/2)O₂ → nCO₂ + nH₂O. Nhận xét: khi đốt alkene, **n(CO₂) = n(H₂O)**.
 
@@ -348,35 +566,35 @@ Tổng quát alkene: CₙH₂ₙ + (3n/2)O₂ → nCO₂ + nH₂O. Nhận xét: 
 
 Alkyne tham gia các phản ứng cộng tương tự alkene (cộng H₂, Br₂, HX, H₂O), thường cộng theo 2 giai đoạn (C≡C → C=C → C–C). Ví dụ:
 
-$$CH\equiv CH + 2Br_2 \rightarrow CHBr_2-CHBr_2$$
+CH≡CH + 2Br₂ → CHBr₂-CHBr₂
 
-$$CH\equiv CH + H_2 \xrightarrow{Ni,\ t^\circ} CH_2=CH_2 \xrightarrow{H_2,\ Ni,\ t^\circ} CH_3-CH_3$$
+CH≡CH + H₂ → (Ni, t°) CH₂=CH₂ → (H₂, Ni, t°) CH₃-CH₃
 
 Đốt cháy alkyne: CₙH₂ₙ₋₂ + ((3n−1)/2)O₂ → nCO₂ + (n−1)H₂O. Nhận xét: **n(CO₂) > n(H₂O)**.
 
-$$2C_2H_2 + 5O_2 \xrightarrow{t^\circ} 4CO_2 + 2H_2O$$
+2C₂H₂ + 5O₂ → (t°) 4CO₂ + 2H₂O
 
 **Phản ứng đặc trưng của alkyne đầu mạch** (có liên kết ≡C–H ở đầu mạch): tác dụng với dung dịch AgNO₃ trong NH₃ (thuốc thử Tollens dạng [Ag(NH₃)₂]OH) tạo **kết tủa vàng** của silver acetylide. Alkyne không phải đầu mạch (như but-2-yne) **không** có phản ứng này. Đây là phản ứng dùng để **nhận biết alkyne đầu mạch** và phân biệt với alkene/alkyne giữa mạch.
 
-$$CH\equiv CH + 2[Ag(NH_3)_2]OH \rightarrow AgC\equiv CAg\downarrow \text{(vàng)} + 4NH_3 + 2H_2O$$
+CH≡CH + 2[Ag(NH₃)₂]OH → AgC≡CAg↓ (vàng) + 4NH₃ + 2H₂O
 
-$$CH\equiv C-CH_3 + [Ag(NH_3)_2]OH \rightarrow CH_3-C\equiv CAg\downarrow \text{(vàng)} + 2NH_3 + H_2O$$
+CH≡C-CH₃ + [Ag(NH₃)₂]OH → CH₃-C≡CAg↓ (vàng) + 2NH₃ + H₂O
 
 **7. Điều chế acetylene**
 
 - **Từ calcium carbide (đất đèn, CaC₂):**
 
-$$CaC_2 + 2H_2O \rightarrow C_2H_2\uparrow + Ca(OH)_2$$
+CaC₂ + 2H₂O → C₂H₂↑ + Ca(OH)₂
 
 - **Từ methane (nhiệt phân nhanh ở ~1500 °C rồi làm lạnh nhanh):**
 
-$$2CH_4 \xrightarrow{1500^\circ C,\ \text{làm lạnh nhanh}} C_2H_2 + 3H_2$$
+2CH₄ → (1500°C, làm lạnh nhanh) C₂H₂ + 3H₂
 
 **8. Ứng dụng**
 
 - **Acetylene:** cháy tỏa nhiều nhiệt (ngọn lửa oxy–acetylene ~3000 °C) dùng trong **đèn xì** hàn/cắt kim loại; là nguyên liệu tổng hợp nhiều chất, trong đó có vinyl chloride để trùng hợp thành **PVC**:
 
-$$n\,CH_2=CHCl \xrightarrow{t^\circ,\ p,\ xt} -(CH_2-CHCl)_n- \quad \text{(poly(vinyl chloride), PVC)}$$
+n CH₂=CHCl → (t°, p, xt) –(CH₂–CHCl)ₙ– (poly(vinyl chloride), PVC)
 
 - **Ethylene:** nguyên liệu sản xuất PE, ethanol, ethylene glycol; còn dùng làm chất kích thích quả mau chín.
 - **PE, PP, PVC:** các nhựa thông dụng (túi nylon, chai lọ, ống nhựa, màng bọc...).
@@ -389,6 +607,28 @@ $$n\,CH_2=CHCl \xrightarrow{t^\circ,\ p,\ xt} -(CH_2-CHCl)_n- \quad \text{(poly(
 | Alkene | Mất màu | Mất màu tím | Không kết tủa |
 | Alkyne giữa mạch | Mất màu | Mất màu tím | Không kết tủa |
 | Alkyne đầu mạch | Mất màu | Mất màu tím | Kết tủa vàng |
+
+### Alkadiene liên hợp và styrene
+
+**Alkadiene liên hợp** là alkadiene có hai liên kết đôi C=C cách nhau đúng một liên kết đơn C–C. Hai chất tiêu biểu:
+
+- **Buta-1,3-diene**: CH₂=CH–CH=CH₂.
+- **Isoprene (2-methylbuta-1,3-diene)**: CH₂=C(CH₃)–CH=CH₂, là đơn vị cấu tạo của cao su thiên nhiên.
+
+**Phản ứng cộng Br₂ tỉ lệ mol 1:1 của buta-1,3-diene — phụ thuộc nhiệt độ:**
+
+- Ở nhiệt độ thấp (khoảng −80 °C): ưu tiên **sản phẩm cộng 1,2** — Br cộng vào hai carbon của cùng một liên kết đôi ở đầu mạch.
+- Ở nhiệt độ cao hơn (khoảng 40 °C): ưu tiên **sản phẩm cộng 1,4** — Br cộng vào hai carbon ở hai đầu của hệ liên hợp (vị trí 1 và 4), đồng thời liên kết đôi còn lại dịch vào giữa (vị trí 2–3).
+
+**Phản ứng trùng hợp:**
+
+- Buta-1,3-diene trùng hợp tạo **cao su buna** (polybutadiene).
+- Isoprene trùng hợp tạo polymer có cấu trúc gần giống **cao su thiên nhiên** (polyisoprene).
+
+**Styrene**: C₆H₅–CH=CH₂, là hydrocarbon thơm có một liên kết đôi C=C ở mạch nhánh.
+
+- Tính chất của phần liên kết đôi: styrene **cộng Br₂** (làm mất màu nước bromine), **cộng H₂**, và **làm mất màu dung dịch KMnO₄** (bị oxi hóa ở liên kết đôi). Các phản ứng này xảy ra ở nhóm vinyl –CH=CH₂, vòng benzene vẫn giữ nguyên trong các điều kiện thông thường đó.
+- Phản ứng trùng hợp: styrene trùng hợp tạo **polystyrene (PS)**, chất dẻo dùng làm hộp xốp, vỏ thiết bị, đồ dùng một lần.
 
 ### (B) Bảng/công thức nhớ nhanh
 
@@ -555,15 +795,15 @@ Hệ quả:
 
 **(1) Tác dụng với kim loại kiềm (Na, K) — tính acid rất yếu của H trong nhóm –OH**
 
-$$2C_2H_5OH + 2Na \rightarrow 2C_2H_5ONa + H_2\uparrow$$
+2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂↑
 
 Tổng quát với alcohol đơn chức:
 
-$$2ROH + 2Na \rightarrow 2RONa + H_2\uparrow$$
+2ROH + 2Na → 2RONa + H₂↑
 
 Với glycerol (3 nhóm –OH):
 
-$$2C_3H_5(OH)_3 + 6Na \rightarrow 2C_3H_5(ONa)_3 + 3H_2\uparrow$$
+2C₃H₅(OH)₃ + 6Na → 2C₃H₅(ONa)₃ + 3H₂↑
 
 Quy tắc tính nhanh: **số mol H₂ = ½ × tổng số mol nhóm –OH phản ứng.**
 
@@ -575,13 +815,13 @@ Phản ứng này êm dịu hơn Na tác dụng với nước, dùng để nhậ
 
 - Alcohol **bậc I** → **andehit**:
 
-$$CH_3CH_2OH + CuO \xrightarrow{t^\circ} CH_3CHO + Cu + H_2O$$
+CH₃CH₂OH + CuO → (t°) CH₃CHO + Cu + H₂O
 
-$$CH_3OH + CuO \xrightarrow{t^\circ} HCHO + Cu + H_2O$$
+CH₃OH + CuO → (t°) HCHO + Cu + H₂O
 
 - Alcohol **bậc II** → **ketone**:
 
-$$CH_3CH(OH)CH_3 + CuO \xrightarrow{t^\circ} CH_3COCH_3 + Cu + H_2O$$
+CH₃CH(OH)CH₃ + CuO → (t°) CH₃COCH₃ + Cu + H₂O
 
 - Alcohol **bậc III**: khó bị oxi hóa bởi CuO trong điều kiện thường (không có H trên carbon mang –OH để tách).
 
@@ -589,19 +829,19 @@ $$CH_3CH(OH)CH_3 + CuO \xrightarrow{t^\circ} CH_3COCH_3 + Cu + H_2O$$
 
 Oxi hóa hoàn toàn (cháy):
 
-$$C_2H_5OH + 3O_2 \xrightarrow{t^\circ} 2CO_2 + 3H_2O$$
+C₂H₅OH + 3O₂ → (t°) 2CO₂ + 3H₂O
 
 **(3) Tách nước nội phân tử (dehydrate hóa) → alkene**
 
 Đun alcohol với H₂SO₄ đặc ở khoảng 170 °C (với ethanol):
 
-$$CH_3CH_2OH \xrightarrow{H_2SO_4\ \text{đặc},\ 170^\circ C} CH_2{=}CH_2 + H_2O$$
+CH₃CH₂OH → (H₂SO₄ đặc, 170°C) CH₂=CH₂ + H₂O
 
 **Quy tắc Zaitsev (mức cơ bản):** Khi tách nước (tách HX nói chung) khỏi một phân tử, nhóm –OH ưu tiên tách cùng với nguyên tử H ở carbon **bậc cao hơn** kề bên, tạo alkene chính có liên kết đôi ở phía nhiều nhóm thế hơn (alkene bền hơn).
 
 Ví dụ: butan-2-ol tách nước cho sản phẩm chính là but-2-ene:
 
-$$CH_3CH(OH)CH_2CH_3 \xrightarrow{H_2SO_4\ \text{đặc},\ t^\circ} CH_3CH{=}CHCH_3\ (\text{chính}) + H_2O$$
+CH₃CH(OH)CH₂CH₃ → (H₂SO₄ đặc, t°) CH₃CH=CHCH₃ (chính) + H₂O
 
 (sản phẩm phụ: CH₂=CHCH₂CH₃, but-1-ene).
 
@@ -609,7 +849,7 @@ $$CH_3CH(OH)CH_2CH_3 \xrightarrow{H_2SO_4\ \text{đặc},\ t^\circ} CH_3CH{=}CHC
 
 Đun alcohol với H₂SO₄ đặc ở nhiệt độ thấp hơn, khoảng 140 °C (với ethanol), hai phân tử alcohol tách một phân tử nước tạo ether:
 
-$$2C_2H_5OH \xrightarrow{H_2SO_4\ \text{đặc},\ 140^\circ C} C_2H_5OC_2H_5 + H_2O$$
+2C₂H₅OH → (H₂SO₄ đặc, 140°C) C₂H₅OC₂H₅ + H₂O
 
 Sản phẩm C₂H₅OC₂H₅ là diethyl ether. Cùng một chất (ethanol + H₂SO₄ đặc) nhưng **nhiệt độ khác nhau cho sản phẩm khác nhau**: 140 °C → ether, 170 °C → ethylene. Đây là điểm rất hay ra đề.
 
@@ -617,7 +857,7 @@ Sản phẩm C₂H₅OC₂H₅ là diethyl ether. Cùng một chất (ethanol + 
 
 Alcohol + acid carboxylic ⇌ ester + nước (xúc tác H₂SO₄ đặc, đun nóng, phản ứng thuận nghịch):
 
-$$CH_3COOH + C_2H_5OH \overset{H_2SO_4\ \text{đặc},\ t^\circ}{\rightleftharpoons} CH_3COOC_2H_5 + H_2O$$
+CH₃COOH + C₂H₅OH ⇌ (H₂SO₄ đặc, t°) CH₃COOC₂H₅ + H₂O
 
 (Chi tiết về phản ứng ester hóa xem ở Chuyên đề 6.)
 
@@ -625,7 +865,7 @@ $$CH_3COOH + C_2H_5OH \overset{H_2SO_4\ \text{đặc},\ t^\circ}{\rightleftharpo
 
 Glycerol (và các polyol có ít nhất hai nhóm –OH gắn ở hai carbon kề nhau, như ethylene glycol) hòa tan được Cu(OH)₂ tạo **dung dịch màu xanh lam** trong suốt do tạo phức đồng(II) glycerate:
 
-$$2C_3H_8O_3 + Cu(OH)_2 \rightarrow [C_3H_7O_3]_2Cu + 2H_2O$$
+2C₃H₈O₃ + Cu(OH)₂ → [C₃H₇O₃]₂Cu + 2H₂O
 
 (viết gọn; sản phẩm là phức chất của Cu²⁺ với glycerol, dung dịch xanh lam đặc trưng).
 
@@ -637,11 +877,11 @@ Alcohol đơn chức (ethanol...) **không** hòa tan Cu(OH)₂. Đây là phả
 
 (1) **Hydrate hóa ethylene** (công nghiệp, xúc tác H₃PO₄, nhiệt độ và áp suất cao):
 
-$$CH_2{=}CH_2 + H_2O \xrightarrow{H_3PO_4,\ t^\circ,\ p} CH_3CH_2OH$$
+CH₂=CH₂ + H₂O → (H₃PO₄, t°, p) CH₃CH₂OH
 
 (2) **Lên men glucose** (từ tinh bột, rỉ đường... nhờ enzyme của nấm men):
 
-$$C_6H_{12}O_6 \xrightarrow{\text{enzyme}} 2C_2H_5OH + 2CO_2\uparrow$$
+C₆H₁₂O₆ → (enzyme) 2C₂H₅OH + 2CO₂↑
 
 Đây là phương trình tính toán quan trọng nhất của chuyên đề: **1 mol glucose → 2 mol ethanol + 2 mol CO₂**. Khi đề cho hiệu suất H%, khối lượng ethanol thực tế = khối lượng lí thuyết × H%.
 
@@ -658,22 +898,22 @@ Phenol C₆H₅OH (C₆H₅–OH, nhóm –OH gắn trực tiếp vào vòng ben
 - **Tính acid yếu:** Phenol có tính acid **yếu hơn carbonic acid (H₂CO₃)**, mạnh hơn alcohol. Bằng chứng:
   - Phenol tác dụng với dung dịch NaOH:
 
-$$C_6H_5OH + NaOH \rightarrow C_6H_5ONa + H_2O$$
+C₆H₅OH + NaOH → C₆H₅ONa + H₂O
 
   - Phenol **không** làm đổi màu quỳ tím (acid quá yếu).
   - Phenol **không** tác dụng với NaHCO₃ và bị acid carbonic đẩy ra khỏi muối: sục CO₂ vào dung dịch sodium phenolate thu lại phenol:
 
-$$C_6H_5ONa + CO_2 + H_2O \rightarrow C_6H_5OH + NaHCO_3$$
+C₆H₅ONa + CO₂ + H₂O → C₆H₅OH + NaHCO₃
 
   - Phenol tác dụng với Na (giống alcohol):
 
-$$2C_6H_5OH + 2Na \rightarrow 2C_6H_5ONa + H_2\uparrow$$
+2C₆H₅OH + 2Na → 2C₆H₅ONa + H₂↑
 
   - Phenol không tác dụng với dung dịch HCl. Phenol **có** tác dụng với Na₂CO₃ nhưng chỉ tạo NaHCO₃, **không** giải phóng CO₂: C₆H₅OH + Na₂CO₃ → C₆H₅ONa + NaHCO₃. Phenol **không** tác dụng với NaHCO₃ — đây là điểm phân biệt phenol với acid carboxylic hay ra đề.
 
 - **Phản ứng với nước bromine (nhận biết phenol):** Phenol làm mất màu nước bromine và tạo **kết tủa trắng** 2,4,6-tribromophenol do vòng benzene được hoạt hóa mạnh bởi nhóm –OH, thế 3 nguyên tử Br vào các vị trí ortho, para:
 
-$$C_6H_5OH + 3Br_2 \rightarrow C_6H_2Br_3OH\downarrow\ (\text{trắng}) + 3HBr$$
+C₆H₅OH + 3Br₂ → C₆H₂Br₃OH↓ (trắng) + 3HBr
 
 Đây là phản ứng đặc trưng để **nhận biết phenol**.
 
@@ -793,13 +1033,13 @@ Thuốc thử Tollens: dung dịch AgNO₃ trong NH₃ dư, chứa phức [Ag(NH
 
 Với andehit thường RCHO (ví dụ CH₃CHO):
 
-$$CH_3CHO + 2[Ag(NH_3)_2]OH \xrightarrow{t^\circ} CH_3COONH_4 + 2Ag\downarrow + 3NH_3 + H_2O$$
+CH₃CHO + 2[Ag(NH₃)₂]OH → (t°) CH₃COONH₄ + 2Ag↓ + 3NH₃ + H₂O
 
 Tỉ lệ nhớ nhanh: **1 mol andehit đơn chức (trừ HCHO) → 2 mol Ag**.
 
 Riêng **methanal HCHO → 4 mol Ag**, vì HCHO bị oxi hóa **hai nấc liên tiếp** (HCHO → formic acid → CO₂/(NH₄)₂CO₃), nhường gấp đôi lượng electron so với các andehit khác (chỉ bị oxi hóa một nấc lên acid carboxylic), nên 1 mol HCHO khử được 4 mol Ag⁺:
 
-$$HCHO + 4[Ag(NH_3)_2]OH \xrightarrow{t^\circ} (NH_4)_2CO_3 + 4Ag\downarrow + 6NH_3 + 2H_2O$$
+HCHO + 4[Ag(NH₃)₂]OH → (t°) (NH₄)₂CO₃ + 4Ag↓ + 6NH₃ + 2H₂O
 
 > Bẫy đề kinh điển: cho khối lượng andehit → tính Ag mà không để ý chất đó là HCHO thì sai gấp đôi. Luôn kiểm tra: chất tráng bạc là HCHO hay RCHO?
 
@@ -807,19 +1047,19 @@ $$HCHO + 4[Ag(NH_3)_2]OH \xrightarrow{t^\circ} (NH_4)_2CO_3 + 4Ag\downarrow + 6N
 
 Đun nóng andehit với Cu(OH)₂ trong dung dịch NaOH (thuốc thử Fehling/Benedict hoạt động tương tự), Cu(II) màu xanh lam bị khử thành **Cu₂O kết tủa đỏ gạch**, andehit bị oxi hóa thành muối carboxylate:
 
-$$CH_3CHO + 2Cu(OH)_2 + NaOH \xrightarrow{t^\circ} CH_3COONa + Cu_2O\downarrow + 3H_2O$$
+CH₃CHO + 2Cu(OH)₂ + NaOH → (t°) CH₃COONa + Cu₂O↓ + 3H₂O
 
 Tổng quát:
 
-$$RCHO + 2Cu(OH)_2 + NaOH \xrightarrow{t^\circ} RCOONa + Cu_2O\downarrow\ (\text{đỏ gạch}) + 3H_2O$$
+RCHO + 2Cu(OH)₂ + NaOH → (t°) RCOONa + Cu₂O↓ (đỏ gạch) + 3H₂O
 
 Đây là phản ứng nhận biết andehit (cùng với tráng bạc). Ketone **không** có hai phản ứng này — dùng để phân biệt andehit với ketone.
 
 **(3) Phản ứng cộng hydrogen (khử andehit) → alcohol bậc I**
 
-$$CH_3CHO + H_2 \xrightarrow{Ni,\ t^\circ} CH_3CH_2OH$$
+CH₃CHO + H₂ → (Ni, t°) CH₃CH₂OH
 
-$$HCHO + H_2 \xrightarrow{Ni,\ t^\circ} CH_3OH$$
+HCHO + H₂ → (Ni, t°) CH₃OH
 
 Tổng quát: RCHO + H₂ → RCH₂OH (alcohol bậc I). Tỉ lệ mol 1 : 1 : 1 — hay dùng trong bài toán tính khối lượng alcohol tạo thành.
 
@@ -829,21 +1069,33 @@ Ngoài ra andehit còn cộng HCN, cộng NaHSO₃... (chỉ giới thiệu, kh�
 
 Andehit dễ bị các chất oxi hóa (thuốc thử Tollens, Cu(OH)₂/NaOH, nước bromine, KMnO₄...) oxi hóa thành acid carboxylic tương ứng (giữ nguyên số carbon):
 
-$$CH_3CHO \xrightarrow{[O]} CH_3COOH$$
+CH₃CHO → ([O]) CH₃COOH
 
 Ví dụ với nước bromine (andehit làm mất màu nước bromine, khác phenol ở chỗ **không** tạo kết tủa trắng):
 
-$$CH_3CHO + Br_2 + H_2O \rightarrow CH_3COOH + 2HBr$$
+CH₃CHO + Br₂ + H₂O → CH₃COOH + 2HBr
+
+### Phản ứng iodoform của ethanal và methyl ketone
+
+**Ethanal CH₃CHO** và các **methyl ketone** có dạng CH₃–CO–R (nhóm CH₃ gắn trực tiếp với nhóm carbonyl C=O) tác dụng với dung dịch **I₂/NaOH** tạo thành **iodoform CHI₃ là kết tủa màu vàng** đặc trưng.
+
+Điều kiện nhận biết cốt lõi: phân tử phải chứa nhóm **CH₃–CO–**. Đây là phản ứng dùng để **nhận biết** ethanal (andehit duy nhất ở chương trình phổ thông cho phản ứng này) và các methyl ketone; các andehit khác như HCHO, C₂H₅CHO không cho phản ứng iodoform.
+
+Phương trình với ethanal:
+
+CH₃CHO + 3I₂ + 4NaOH → CHI₃↓ (vàng) + HCOONa + 3NaI + 3H₂O
+
+Dấu hiệu quan sát: xuất hiện **kết tủa vàng** CHI₃ có mùi đặc trưng.
 
 #### 4. Điều chế andehit
 
 (1) **Oxi hóa alcohol bậc I** (bởi CuO hoặc oxi hóa nhẹ):
 
-$$CH_3CH_2OH + CuO \xrightarrow{t^\circ} CH_3CHO + Cu + H_2O$$
+CH₃CH₂OH + CuO → (t°) CH₃CHO + Cu + H₂O
 
 (2) **Oxi hóa methane → methanal** (giới thiệu; lưu ý con đường công nghiệp chủ đạo là oxi hóa methanol): oxi hóa methane bằng oxi không khí ở nhiệt độ cao với xúc tác thích hợp thu được formaldehyde:
 
-$$CH_4 + O_2 \xrightarrow{xt,\ t^\circ} HCHO + H_2O$$
+CH₄ + O₂ → (xt, t°) HCHO + H₂O
 
 Phương trình trên chỉ nêu ở mức giới thiệu; trong công nghiệp, formaldehyde được sản xuất chủ yếu bằng cách oxi hóa methanol.
 
@@ -962,25 +1214,25 @@ Acid carboxylic là **acid yếu** (phân li không hoàn toàn: CH₃COOH ⇌ C
 1. **Làm đổi màu quỳ tím:** làm quỳ tím hóa **đỏ** (hồng đỏ).
 2. **Tác dụng với kim loại đứng trước H** trong dãy hoạt động (Mg, Zn, Fe...), giải phóng H₂:
 
-$$2CH_3COOH + Mg \rightarrow (CH_3COO)_2Mg + H_2\uparrow$$
+2CH₃COOH + Mg → (CH₃COO)₂Mg + H₂↑
 
-$$2HCOOH + Zn \rightarrow (HCOO)_2Zn + H_2\uparrow$$
+2HCOOH + Zn → (HCOO)₂Zn + H₂↑
 
 3. **Tác dụng với oxide base:**
 
-$$2CH_3COOH + CuO \rightarrow (CH_3COO)_2Cu + H_2O$$
+2CH₃COOH + CuO → (CH₃COO)₂Cu + H₂O
 
 4. **Tác dụng với base (phản ứng trung hòa):**
 
-$$CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$$
+CH₃COOH + NaOH → CH₃COONa + H₂O
 
 Đây là phản ứng nền của bài toán **trung hòa acid**: tỉ lệ mol acid đơn chức : NaOH = 1 : 1.
 
 5. **Tác dụng với muối carbonate / hydrogencarbonate**, giải phóng CO₂ (dùng để nhận biết nhóm –COOH):
 
-$$2CH_3COOH + CaCO_3 \rightarrow (CH_3COO)_2Ca + CO_2\uparrow + H_2O$$
+2CH₃COOH + CaCO₃ → (CH₃COO)₂Ca + CO₂↑ + H₂O
 
-$$CH_3COOH + NaHCO_3 \rightarrow CH_3COONa + CO_2\uparrow + H_2O$$
+CH₃COOH + NaHCO₃ → CH₃COONa + CO₂↑ + H₂O
 
 Hiện tượng: sủi bọt khí CO₂. Nhỏ giấm vào vỏ trứng (CaCO₃) thấy sủi bọt là ứng dụng đời sống của phản ứng này.
 
@@ -993,7 +1245,7 @@ Hiện tượng: sủi bọt khí CO₂. Nhỏ giấm vào vỏ trứng (CaCO₃
 
 Acid carboxylic + alcohol ⇌ ester + nước, xúc tác **H₂SO₄ đặc**, đun nóng; phản ứng **thuận nghịch** (đồng thời xảy ra thủy phân ester):
 
-$$CH_3COOH + C_2H_5OH \overset{H_2SO_4\ \text{đặc},\ t^\circ}{\rightleftharpoons} CH_3COOC_2H_5 + H_2O$$
+CH₃COOH + C₂H₅OH ⇌ (H₂SO₄ đặc, t°) CH₃COOC₂H₅ + H₂O
 
 (ethyl acetate — ester có mùi thơm nhẹ, dùng làm dung môi sơn móng tay).
 
@@ -1008,7 +1260,7 @@ $$CH_3COOH + C_2H_5OH \overset{H_2SO_4\ \text{đặc},\ t^\circ}{\rightleftharpo
 
 (1) **Lên men giấm (lên men ethanol)** — cách làm giấm ăn truyền thống: oxi hóa ethanol loãng (rượu nhạt) bằng oxi không khí nhờ vi khuẩn acetic:
 
-$$C_2H_5OH + O_2 \xrightarrow{\text{vi khuẩn acetic}} CH_3COOH + H_2O$$
+C₂H₅OH + O₂ → (vi khuẩn acetic) CH₃COOH + H₂O
 
 (2) Trong công nghiệp, acetic acid còn được điều chế bằng oxi hóa butane hoặc carbon hóa methanol (giới thiệu, không yêu cầu viết phương trình ở phần này ngoài phản ứng lên men).
 
@@ -1018,6 +1270,16 @@ $$C_2H_5OH + O_2 \xrightarrow{\text{vi khuẩn acetic}} CH_3COOH + H_2O$$
 
 - **Formic acid HCOOH:** phân tử vừa có nhóm –COOH vừa có cấu tạo kiểu andehit (H–COOH, có H gắn trực tiếp vào carbon carbonyl) nên **có tính chất như andehit: tham gia phản ứng tráng bạc** (1 mol HCOOH → 2 mol Ag) và khử Cu(OH)₂/NaOH nóng tạo Cu₂O đỏ gạch. Đây là chất duy nhất trong dãy acid đơn chức thông thường có tính khử kiểu andehit — bẫy đề rất hay gặp. Tên gọi "acid kiến" vì có trong nọc kiến.
 - **Oxalic acid HOOC–COOH:** acid **hai chức** đơn giản nhất (ethanedioic acid), có trong cây chua me đất, rau bina. Ở chương trình này chỉ cần **nhớ tên và công thức**, biết nó là acid dicarboxylic.
+
+### Formic acid làm mất màu nước bromine
+
+**Formic acid HCOOH làm mất màu nước bromine**, khác với các acid carboxylic thông thường khác (acetic acid CH₃COOH không có phản ứng này).
+
+Phương trình:
+
+HCOOH + Br₂ → CO₂↑ + 2HBr
+
+Lí do: phân tử HCOOH có cấu tạo H–C(=O)–OH, tức chứa nhóm **–CHO** giống andehit, nên HCOOH có **tính khử**. Chính tính khử này cũng giải thích vì sao HCOOH tham gia được phản ứng tráng bạc, trong khi các acid carboxylic khác thì không. Khi gặp bài nhận biết, "acid làm mất màu nước bromine và tráng bạc được" là dấu hiệu riêng của HCOOH.
 
 ### (B) Bảng / công thức nhớ nhanh — Chuyên đề 6
 
@@ -1131,11 +1393,11 @@ Lưu ý: gốc R' đọc trước, viết rời; phần gốc acid viết liền
 
 Ester thường được điều chế bằng phản ứng giữa carboxylic acid và alcohol, xúc tác H₂SO₄ đặc, đun nóng. Phản ứng **thuận nghịch**:
 
-$$RCOOH + R'OH \overset{H_2SO_4\ đặc,\ t^\circ}{\rightleftharpoons} RCOOR' + H_2O$$
+RCOOH + R'OH ⇌ (H₂SO₄ đặc, t°) RCOOR' + H₂O
 
 Ví dụ:
 
-$$CH_3COOH + C_2H_5OH \overset{H_2SO_4\ đặc,\ t^\circ}{\rightleftharpoons} CH_3COOC_2H_5 + H_2O$$
+CH₃COOH + C₂H₅OH ⇌ (H₂SO₄ đặc, t°) CH₃COOC₂H₅ + H₂O
 
 Vai trò của H₂SO₄ đặc: vừa làm xúc tác, vừa hút nước → chuyển dịch cân bằng sang chiều tạo ester (theo nguyên lí Le Chatelier). Muốn tăng hiệu suất tạo ester: tăng nồng độ acid/alcohol, chưng cất lấy ester ra khỏi hỗn hợp, dùng H₂SO₄ đặc hút nước.
 
@@ -1149,23 +1411,23 @@ Vai trò của H₂SO₄ đặc: vừa làm xúc tác, vừa hút nước → ch
 
 **(a) Thủy phân trong môi trường acid — thuận nghịch:**
 
-$$RCOOR' + H_2O \overset{H^+,\ t^\circ}{\rightleftharpoons} RCOOH + R'OH$$
+RCOOR' + H₂O ⇌ (H⁺, t°) RCOOH + R'OH
 
 Ví dụ:
 
-$$CH_3COOC_2H_5 + H_2O \overset{H^+,\ t^\circ}{\rightleftharpoons} CH_3COOH + C_2H_5OH$$
+CH₃COOC₂H₅ + H₂O ⇌ (H⁺, t°) CH₃COOH + C₂H₅OH
 
 Đây chính là phản ứng nghịch của phản ứng ester hóa.
 
 **(b) Thủy phân trong môi trường kiềm — phản ứng xà phòng hóa — KHÔNG thuận nghịch:**
 
-$$RCOOR' + NaOH \xrightarrow{t^\circ} RCOONa + R'OH$$
+RCOOR' + NaOH → (t°) RCOONa + R'OH
 
 Tổng quát với KOH: RCOOR' + KOH → RCOOK + R'OH (đun nóng).
 
 Ví dụ:
 
-$$CH_3COOC_2H_5 + NaOH \xrightarrow{t^\circ} CH_3COONa + C_2H_5OH$$
+CH₃COOC₂H₅ + NaOH → (t°) CH₃COONa + C₂H₅OH
 
 Phản ứng không thuận nghịch vì muối carboxylate tạo thành không phản ứng ngược lại với alcohol để tái tạo ester trong điều kiện này. Tỉ lệ mol ester : NaOH = 1 : 1 với ester đơn chức của alcohol; riêng ester của phenol tỉ lệ là 1 : 2.
 
@@ -1197,21 +1459,21 @@ R₁, R₂, R₃ là các gốc hydrocarbon của acid béo, có thể giống h
 
 **(a) Phản ứng thủy phân** (trong môi trường acid, đun nóng, thuận nghịch):
 
-$$(RCOO)_3C_3H_5 + 3H_2O \overset{H^+,\ t^\circ}{\rightleftharpoons} 3RCOOH + C_3H_5(OH)_3$$
+(RCOO)₃C₃H₅ + 3H₂O ⇌ (H⁺, t°) 3RCOOH + C₃H₅(OH)₃
 
 **(b) Phản ứng xà phòng hóa** (thủy phân trong kiềm, không thuận nghịch) — cơ sở sản xuất xà phòng:
 
-$$(RCOO)_3C_3H_5 + 3NaOH \xrightarrow{t^\circ} 3RCOONa + C_3H_5(OH)_3$$
+(RCOO)₃C₃H₅ + 3NaOH → (t°) 3RCOONa + C₃H₅(OH)₃
 
 Ví dụ với tristearin:
 
-$$(C_{17}H_{35}COO)_3C_3H_5 + 3NaOH \xrightarrow{t^\circ} 3C_{17}H_{35}COONa + C_3H_5(OH)_3$$
+(C₁₇H₃₅COO)₃C₃H₅ + 3NaOH → (t°) 3C₁₇H₃₅COONa + C₃H₅(OH)₃
 
 Tỉ lệ mol luôn nhớ: **1 mol triglyceride cần 3 mol NaOH/KOH, sinh ra 1 mol glycerol và 3 mol muối.**
 
 **(c) Phản ứng hydrogen hóa dầu lỏng → mỡ rắn:** dầu chứa gốc acid béo không no cộng H₂ (xúc tác Ni, đun nóng) biến thành mỡ rắn — ứng dụng sản xuất bơ nhân tạo, mỡ công nghiệp:
 
-$$(C_{17}H_{33}COO)_3C_3H_5 + 3H_2 \xrightarrow{Ni,\ t^\circ} (C_{17}H_{35}COO)_3C_3H_5$$
+(C₁₇H₃₃COO)₃C₃H₅ + 3H₂ → (Ni, t°) (C₁₇H₃₅COO)₃C₃H₅
 (triolein, lỏng) → (tristearin, rắn)
 
 **(d) Phản ứng oxi hóa nối đôi — ôi dầu (giới thiệu):** nối đôi C=C trong gốc acid béo không no bị oxi trong không khí oxi hóa chậm, tạo các hợp chất có mùi khó chịu (andehit, acid mạch ngắn...) → dầu mỡ để lâu bị **ôi, thiu**. Vì vậy cần bảo quản dầu mỡ nơi khô mát, tránh ánh sáng, đậy kín.
@@ -1221,7 +1483,7 @@ $$(C_{17}H_{33}COO)_3C_3H_5 + 3H_2 \xrightarrow{Ni,\ t^\circ} (C_{17}H_{35}COO)_
 - **Định nghĩa:** Chỉ số xà phòng hóa là **số miligam (mg) KOH cần dùng để xà phòng hóa hoàn toàn 1 gam chất béo** (lượng KOH này gồm cả phần trung hòa acid béo tự do lẫn trong chất béo và phần xà phòng hóa triglyceride).
 - **Công thức tính:**
 
-$$\text{Chỉ số xà phòng hóa} = \frac{m_{KOH}\ (\text{mg})}{m_{chất\ béo}\ (\text{g})}$$
+Chỉ số xà phòng hóa = m_KOH (mg) / m_chất béo (g)
 
 - **Cách làm bài toán:** từ thể tích và nồng độ dung dịch KOH → n(KOH) → m(KOH) tính ra **mg** → chia cho khối lượng chất béo tính ra **gam**.
   - n(KOH) = C_M × V (V đổi ra lít).
@@ -1252,16 +1514,26 @@ $$\text{Chỉ số xà phòng hóa} = \frac{m_{KOH}\ (\text{mg})}{m_{chất\ bé
 
 **1. Độ bất bão hòa (chỉ số hydrogen thiếu):**
 
-$$k = \frac{2C + 2 + N - H - X}{2}$$
+k = (2C + 2 + N − H − X)/2
 
 Trong đó C, N, H, X lần lượt là số nguyên tử carbon, nitrogen, hydrogen và halogen trong phân tử. Ý nghĩa: k = số liên kết π + số vòng. Áp dụng nhanh:
 - Ester no, đơn chức, mạch hở CₙH₂ₙO₂: k = 1 (đúng 1 liên kết π trong nhóm C=O).
 - Tristearin C₅₇H₁₁₀O₆: k = (2×57 + 2 − 110)/2 = 3 (3 nhóm C=O, không có C=C).
 - Triolein C₅₇H₁₀₄O₆: k = (2×57 + 2 − 104)/2 = 6 (3 nhóm C=O + 3 nối đôi C=C).
 
+### Điều kiện áp dụng của công thức độ bất bão hòa k — cảnh báo muối ammonium
+
+Công thức độ bất bão hòa **k** chỉ áp dụng đúng cho **hợp chất hữu cơ cộng hóa trị** chứa các nguyên tố C, H, O, N, halogen, trong đó mỗi nguyên tố có hóa trị quen thuộc: C hóa trị IV, N hóa trị III, halogen hóa trị I, O không ảnh hưởng tới công thức.
+
+**Không áp dụng trực tiếp công thức k cho muối ammonium và các muối có nitrogen mang điện tích dương**, ví dụ: HCOONH₄ (ammonium formate), CH₃NH₃Cl (methylammonium chloride), muối của amino acid với acid (dạng –NH₃⁺ Cl⁻)... Lí do: trong các chất này, nguyên tử N thuộc nhóm NH₄⁺ hoặc –NH₃⁺ có **4 liên kết** và mang điện tích dương, khác hẳn N hóa trị III trung hòa mà công thức k giả định; đồng thời phân tử còn chứa **liên kết ion** giữa hai ion, điều mà công thức k không mô tả.
+
+Hậu quả nếu thay số máy móc: kết quả k bị sai. Ví dụ HCOONH₄ có công thức phân tử CH₅NO₂; thay vào công thức k cho hợp chất chứa C, H, N sẽ ra k = 0, trong khi ion HCOO⁻ thực tế vẫn chứa **1 liên kết π** trong liên kết C=O. Giá trị k = 0 đó là sai và sẽ dẫn tới kết luận sai về cấu tạo.
+
+**Cách xử lí đúng:** muốn xét độ bất bão hòa của một muối ammonium, phải tách ra và xét riêng **ion hoặc phần hữu cơ tương đương ở dạng cộng hóa trị** (ví dụ xét HCOO⁻, hoặc xét acid HCOOH tương ứng), không thay thẳng công thức phân tử của muối vào công thức k.
+
 **2. Chỉ số xà phòng hóa:**
 
-$$\text{CSXPH} = \frac{n_{KOH} \times 56 \times 1000}{m_{chất\ béo}\ (g)}\ \left(\frac{mg}{g}\right)$$
+CSXPH = (n_KOH × 56 × 1000) / (m_chất béo (g)) (mg/g)
 
 **3. Tỉ lệ mol "vàng" của triglyceride:** n(NaOH hoặc KOH) = 3 × n(chất béo); n(glycerol) = n(chất béo); n(muối) = 3 × n(chất béo).
 
@@ -1358,13 +1630,23 @@ b) Xà phòng hóa hoàn toàn 1 mol tristearin cần 3 mol NaOH và sinh ra 1 m
 c) Dầu thực vật để lâu ngoài không khí bị ôi là do nối đôi C=C trong gốc acid béo không no bị oxi hóa.
 d) Xà phòng giặt rửa tốt trong nước cứng vì không phản ứng với ion Ca²⁺ và Mg²⁺.
 
-#### Phần III. Trả lời ngắn / tính toán (Câu 7.12 – 7.14)
+#### Phần III. Trả lời ngắn / tính toán (Câu 7.12 – 7.19)
 
 **Câu 7.12 (chỉ số xà phòng hóa — chuẩn độ ngược, hai bước).** Để xà phòng hóa hoàn toàn 2 g một mẫu chất béo, người ta đun nóng với 20 mL dung dịch KOH 0,5 M (lấy dư). Sau khi phản ứng hoàn toàn, lượng KOH còn dư được trung hòa vừa đủ bởi 6 mL dung dịch HCl 0,5 M. Tính chỉ số xà phòng hóa của chất béo này.
 
 **Câu 7.13 (thủy phân ester có hiệu suất).** Thủy phân 22 g ethyl acetate bằng dung dịch NaOH dư, đun nóng. Biết hiệu suất phản ứng đạt 80%. Tính khối lượng muối sodium acetate thu được.
 
 **Câu 7.14 (xà phòng hóa triglyceride).** Xà phòng hóa hoàn toàn 8,9 g tristearin (M = 890 g/mol) bằng dung dịch NaOH vừa đủ, đun nóng. Tính: (a) khối lượng NaOH đã dùng; (b) khối lượng glycerol thu được.
+
+**Câu 7.15.** Một hỗn hợp gồm 40,3 g tripalmitin (C₁₅H₃₁COO)₃C₃H₅ và 12,8 g palmitic acid C₁₅H₃₁COOH được xà phòng hóa hoàn toàn bằng dung dịch NaOH vừa đủ. Tính khối lượng xà phòng (muối sodium palmitate C₁₅H₃₁COONa) thu được, theo gam. Cho khối lượng mol: tripalmitin = 806 g/mol; palmitic acid = 256 g/mol; sodium palmitate = 278 g/mol; glycerol = 92 g/mol.
+
+**Câu 7.16.** Cho 13,6 g phenyl acetate CH₃COOC₆H₅ tác dụng với dung dịch NaOH dư, đun nóng, phản ứng xảy ra hoàn toàn. Tính tổng khối lượng muối thu được sau phản ứng, theo gam. Cho khối lượng mol: phenyl acetate = 136 g/mol; CH₃COONa = 82 g/mol; C₆H₅ONa = 116 g/mol.
+
+**Câu 7.17.** Cho glycerol tác dụng với hỗn hợp gồm hai acid carboxylic là acetic acid (kí hiệu A) và propionic acid (kí hiệu B), trong điều kiện ester hóa hoàn toàn cả ba nhóm –OH của glycerol. Hỏi số triester tối đa có thể tạo thành là bao nhiêu? (Chỉ tính triester, không tính monoester và diester.)
+
+**Câu 7.18.** Để xác định chỉ số xà phòng hóa của một mẫu chất béo, người ta cân 2,0 g chất béo, cho tác dụng với 25,0 mL dung dịch KOH 0,5 mol/L (lấy dư), đun hồi lưu cho xà phòng hóa hoàn toàn. Sau phản ứng, lượng KOH còn dư được chuẩn độ hết bởi 10,0 mL dung dịch HCl 0,5 mol/L. Tính chỉ số xà phòng hóa của mẫu chất béo trên (số mg KOH cần để xà phòng hóa hoàn toàn 1 g chất béo). Cho khối lượng mol của KOH = 56 g/mol.
+
+**Câu 7.19.** Xà phòng hóa hoàn toàn 17,8 g tristearin (C₁₇H₃₅COO)₃C₃H₅ bằng dung dịch NaOH vừa đủ. Tính khối lượng glycerol thu được, theo gam. Cho khối lượng mol: tristearin = 890 g/mol; glycerol = 92 g/mol.
 
 ---
 
@@ -1392,28 +1674,28 @@ Carbohydrate là hợp chất hữu cơ tạp chức, thường có công thức
 
 (a) **Hòa tan Cu(OH)₂ ở nhiệt độ thường** (tính chất của alcohol đa chức có nhiều nhóm –OH kề nhau): glucose hòa tan Cu(OH)₂ tạo dung dịch màu **xanh lam** trong suốt:
 
-$$2C_6H_{12}O_6 + Cu(OH)_2 \rightarrow (C_6H_{11}O_6)_2Cu + 2H_2O$$
+2C₆H₁₂O₆ + Cu(OH)₂ → (C₆H₁₁O₆)₂Cu + 2H₂O
 
 (b) **Phản ứng tráng bạc** (tính chất của nhóm –CHO): glucose khử ion Ag⁺ trong dung dịch AgNO₃/NH₃ (thuốc thử Tollens) tạo bạc kim loại bám thành lớp gương:
 
-$$HOCH_2[CHOH]_4CHO + 2[Ag(NH_3)_2]OH \xrightarrow{t^\circ} HOCH_2[CHOH]_4COONH_4 + 2Ag\downarrow + 3NH_3 + H_2O$$
+HOCH₂[CHOH]₄CHO + 2[Ag(NH₃)₂]OH → (t°) HOCH₂[CHOH]₄COONH₄ + 2Ag↓ + 3NH₃ + H₂O
 
 Tỉ lệ mol: **1 mol glucose → 2 mol Ag**.
 
 (c) **Khử Cu(OH)₂ khi đun nóng** (môi trường kiềm): tạo kết tủa **Cu₂O đỏ gạch**:
 
-$$HOCH_2[CHOH]_4CHO + 2Cu(OH)_2 + NaOH \xrightarrow{t^\circ} HOCH_2[CHOH]_4COONa + Cu_2O\downarrow + 3H_2O$$
+HOCH₂[CHOH]₄CHO + 2Cu(OH)₂ + NaOH → (t°) HOCH₂[CHOH]₄COONa + Cu₂O↓ + 3H₂O
 
 (d) **Phản ứng với nước bromine:** nhóm –CHO bị oxi hóa, glucose **làm mất màu** dung dịch bromine:
 
-$$C_6H_{12}O_6 + Br_2 + H_2O \rightarrow C_6H_{12}O_7 + 2HBr$$
+C₆H₁₂O₆ + Br₂ + H₂O → C₆H₁₂O₇ + 2HBr
 (glucose) → (gluconic acid)
 
 Đây là phản ứng dùng để **phân biệt glucose với fructose** (fructose không làm mất màu nước bromine).
 
 (e) **Phản ứng lên men rượu** (xúc tác enzyme, 30–35 °C):
 
-$$C_6H_{12}O_6 \xrightarrow{enzyme} 2C_2H_5OH + 2CO_2\uparrow$$
+C₆H₁₂O₆ → (enzyme) 2C₂H₅OH + 2CO₂↑
 
 Tỉ lệ mol: 1 mol glucose → 2 mol ethanol + 2 mol CO₂.
 
@@ -1430,7 +1712,7 @@ Tỉ lệ mol: 1 mol glucose → 2 mol ethanol + 2 mol CO₂.
 - Phân tử saccharose gồm một gốc glucose và một gốc fructose liên kết với nhau; do liên kết glycoside khóa cả hai đầu khử nên saccharose **không có tính khử: không tráng bạc trực tiếp, không khử Cu(OH)₂ khi đun nóng**. Saccharose vẫn hòa tan Cu(OH)₂ cho dung dịch xanh lam (nhiều nhóm –OH).
 - **Phản ứng thủy phân** (xúc tác acid hoặc enzyme):
 
-$$C_{12}H_{22}O_{11} + H_2O \xrightarrow{H^+,\ t^\circ} C_6H_{12}O_6 + C_6H_{12}O_6$$
+C₁₂H₂₂O₁₁ + H₂O → (H⁺, t°) C₆H₁₂O₆ + C₆H₁₂O₆
 (saccharose) → (glucose) + (fructose)
 
 Dung dịch **sau thủy phân** mới có tính khử (tráng bạc được) nhờ glucose và fructose sinh ra.
@@ -1441,14 +1723,14 @@ Dung dịch **sau thủy phân** mới có tính khử (tráng bạc được) n
 - Khác saccharose, phân tử maltose còn một đầu có khả năng mở vòng tạo nhóm –CHO nên maltose **có tính khử: tráng bạc được, khử Cu(OH)₂ khi đun nóng cho Cu₂O đỏ gạch**.
 - Thủy phân maltose cho 2 phân tử glucose:
 
-$$C_{12}H_{22}O_{11} + H_2O \xrightarrow{H^+,\ t^\circ} 2C_6H_{12}O_6$$
+C₁₂H₂₂O₁₁ + H₂O → (H⁺, t°) 2C₆H₁₂O₆
 
 #### 6. Tinh bột
 
 - Tinh bột là polysaccharide, công thức (C₆H₁₀O₅)ₙ, gồm amylose (mạch không phân nhánh) và amylopectin (mạch phân nhánh), là chất dinh dưỡng dự trữ của cây (gạo, ngô, khoai, sắn...).
 - **Thủy phân:** dưới xúc tác acid loãng đun nóng (hoặc enzyme), tinh bột thủy phân qua các giai đoạn (dextrin → maltose) và cuối cùng cho glucose:
 
-$$(C_6H_{10}O_5)_n + nH_2O \xrightarrow{H^+,\ t^\circ} nC_6H_{12}O_6$$
+(C₆H₁₀O₅)ₙ + nH₂O → (H⁺, t°) nC₆H₁₂O₆
 
 - **Phản ứng màu với iodine:** dung dịch tinh bột tác dụng với dung dịch iodine (I₂/KI) cho màu **xanh tím** đặc trưng (do I₂ bị hấp phụ vào xoắn amylose). Đun nóng màu mất đi, để nguội màu xuất hiện lại. Đây là phản ứng nhận biết tinh bột (và nhận biết iodine).
 
@@ -1457,12 +1739,12 @@ $$(C_6H_{10}O_5)_n + nH_2O \xrightarrow{H^+,\ t^\circ} nC_6H_{12}O_6$$
 - Cellulose là polysaccharide, công thức (C₆H₁₀O₅)ₙ, là thành phần chính của thành tế bào thực vật (bông, gỗ, tre...), mạch dài không phân nhánh, hệ số n lớn hơn tinh bột nhiều.
 - **Thủy phân:** cellulose bền hơn tinh bột, chỉ thủy phân khi đun nóng với **acid đậm đặc** (ví dụ H₂SO₄ 70%) cho glucose:
 
-$$(C_6H_{10}O_5)_n + nH_2O \xrightarrow{H_2SO_4\ đặc,\ t^\circ} nC_6H_{12}O_6$$
+(C₆H₁₀O₅)ₙ + nH₂O → (H₂SO₄ đặc, t°) nC₆H₁₂O₆
 
 Cơ thể người không có enzyme thủy phân cellulose nên không tiêu hóa được cellulose (khác tinh bột); động vật nhai lại tiêu hóa được nhờ vi sinh vật.
 - **Trinitrocellulose (giới thiệu):** cellulose tác dụng với hỗn hợp HNO₃ đặc/H₂SO₄ đặc cho cellulose trinitrate — chất dễ cháy, nổ, dùng làm thuốc súng không khói:
 
-$$[C_6H_7O_2(OH)_3]_n + 3nHNO_3 \xrightarrow{H_2SO_4\ đặc} [C_6H_7O_2(ONO_2)_3]_n + 3nH_2O$$
+[C₆H₇O₂(OH)₃]ₙ + 3nHNO₃ → (H₂SO₄ đặc) [C₆H₇O₂(ONO₂)₃]ₙ + 3nH₂O
 
 ### (B) Bảng / công thức nhớ nhanh — Chuyên đề 8
 
@@ -1481,7 +1763,7 @@ $$[C_6H_7O_2(OH)_3]_n + 3nHNO_3 \xrightarrow{H_2SO_4\ đặc} [C_6H_7O_2(ONO_2)_
 
 **2. Chuỗi chuyển hóa "vàng" cho bài toán thực tế:**
 
-$$\text{Tinh bột} \xrightarrow{+H_2O,\ H^+,\ t^\circ} \text{Glucose} \xrightarrow{enzyme} \text{Ethanol} + CO_2$$
+Tinh bột → (+H₂O, H⁺, t°) Glucose → (enzyme) Ethanol + CO₂
 
 - (C₆H₁₀O₅)ₙ: M của một mắt xích = 162 g/mol; glucose M = 180 g/mol; ethanol M = 46 g/mol; saccharose/maltose M = 342 g/mol.
 - 1 mol mắt xích tinh bột → 1 mol glucose → 2 mol ethanol.
@@ -1565,13 +1847,21 @@ b) Saccharose hòa tan Cu(OH)₂ ở nhiệt độ thường tạo dung dịch x
 c) Tinh bột và cellulose đều có công thức (C₆H₁₀O₅)ₙ nhưng tính chất khác nhau, và cơ thể người tiêu hóa được cả hai.
 d) Sản phẩm thủy phân hoàn toàn tinh bột là glucose.
 
-#### Phần III. Trả lời ngắn / tính toán (Câu 8.12 – 8.14)
+#### Phần III. Trả lời ngắn / tính toán (Câu 8.12 – 8.18)
 
 **Câu 8.12 (lên men — hiệu suất cả quá trình).** Thủy phân 16,2 g tinh bột (hiệu suất 80%) thu được glucose, rồi lên men rượu lượng glucose này (hiệu suất 75%). Tính khối lượng ethanol thu được.
 
 **Câu 8.13 (tráng bạc có hiệu suất).** Cho 18 g glucose tác dụng với lượng dư dung dịch AgNO₃ trong NH₃, đun nóng. Biết hiệu suất phản ứng tráng bạc là 90%. Tính khối lượng bạc thu được.
 
 **Câu 8.14 (lên men — tính ngược nguyên liệu).** Lên men glucose với hiệu suất 80% thu được 18,4 g ethanol. Tính khối lượng glucose cần dùng.
+
+**Câu 8.15.** Lên men 100 kg gạo chứa 80% tinh bột theo khối lượng, hiệu suất của cả quá trình lên men đạt 80%. Tính thể tích dung dịch ethanol 40° (40% ethanol theo thể tích) thu được, theo lít. Cho khối lượng riêng của ethanol nguyên chất là 0,8 g/mL. Sơ đồ: (C₆H₁₀O₅)ₙ → nC₆H₁₂O₆ → 2nC₂H₅OH; khối lượng mol của một mắt xích tinh bột C₆H₁₀O₅ là 162 g/mol, của ethanol là 46 g/mol.
+
+**Câu 8.16.** Lên men 200 kg sắn chứa 75% tinh bột theo khối lượng, hiệu suất của cả quá trình đạt 75%. Tính thể tích ethanol nguyên chất (tuyệt đối) thu được, theo lít. Cho khối lượng riêng của ethanol là 0,8 g/mL; khối lượng mol của một mắt xích tinh bột C₆H₁₀O₅ là 162 g/mol, của ethanol là 46 g/mol; sơ đồ lên men: (C₆H₁₀O₅)ₙ → 2nC₂H₅OH.
+
+**Câu 8.17.** Xăng E5 chứa 5% ethanol theo thể tích. Để pha chế 1000 L xăng E5 cần một lượng ethanol nguyên chất được sản xuất bằng cách lên men gạo chứa 80% tinh bột theo khối lượng, với hiệu suất toàn bộ quá trình là 80%. Tính khối lượng gạo cần dùng, theo kilogam. Cho khối lượng riêng của ethanol là 0,8 g/mL; khối lượng mol của một mắt xích tinh bột C₆H₁₀O₅ là 162 g/mol, của ethanol là 46 g/mol.
+
+**Câu 8.18.** Đốt cháy hoàn toàn 1 L xăng E5 (chứa 5% ethanol và 95% octane C₈H₁₈ theo thể tích). Tính thể tích khí CO₂ sinh ra ở điều kiện chuẩn, theo lít, làm tròn đến hàng đơn vị. Cho khối lượng riêng: ethanol = 0,8 g/mL, octane = 0,7 g/mL; khối lượng mol: ethanol = 46 g/mol, octane = 114 g/mol; ở điều kiện chuẩn, 1 mol khí chiếm 24,79 L. Phương trình cháy: C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O và 2C₈H₁₈ + 25O₂ → 16CO₂ + 18H₂O.
 
 
 ---
@@ -1602,6 +1892,21 @@ Lưu ý phân biệt: **bậc của amine** = số gốc hydrocarbon liên kết
 - Tên gốc hydrocarbon + "amine". Ví dụ: CH₃NH₂: methylamine; C₂H₅NH₂: ethylamine; (CH₃)₂NH: dimethylamine; (CH₃)₃N: trimethylamine.
 - Aniline là tên thông thường (tên thay thế: phenylamine / benzenamine) của C₆H₅NH₂ — tên này được giữ nguyên trong chương trình, cần nhớ.
 
+### Danh pháp thay thế IUPAC của amine
+
+Tên thay thế của amine được gọi theo tên hydrocarbon tương ứng với hậu tố **amine**; nhóm thế gắn trên nguyên tử N được chỉ rõ bằng tiền tố **N-** (chữ N in nghiêng hoặc viết hoa trong đề thi) đặt trước tên nhóm thế.
+
+Các ví dụ chuẩn:
+
+- CH₃NH₂: **methanamine**
+- CH₃CH₂NH₂: **ethanamine**
+- CH₃NHCH₃: **N-methylmethanamine** — một nhóm methyl gắn trên N, gốc chính là methanamine.
+- (CH₃)₃N: **N,N-dimethylmethanamine** — hai nhóm methyl gắn trên N, nên phải ghi N,N- (hai lần) và tiền tố di-.
+
+**Quy tắc cốt lõi:** tiền tố **N- chỉ vị trí của nhóm thế gắn trên nguyên tử nitrogen**, phân biệt với nhóm thế gắn trên mạch carbon (được chỉ bằng số chỉ vị trí 1, 2, 3...). Có bao nhiêu nhóm thế trên N thì bấy nhiêu chữ N trong tiền tố, ví dụ N- cho một nhóm thế và N,N- cho hai nhóm thế. Với amine trung hòa, nguyên tử N mang tối đa 3 nhóm thế kể cả gốc của mạch chính, nên tiền tố tối đa chỉ là **N,N-**.
+
+Lưu ý: các tên thông thường như methylamine, dimethylamine, trimethylamine vẫn được dùng rộng rãi, nhưng khi đề yêu cầu **danh pháp thay thế** thì phải trả lời dạng methanamine, N-methylmethanamine, N,N-dimethylmethanamine như trên.
+
 **4. Tính chất vật lí (nét chính)**
 
 - Methylamine, dimethylamine, trimethylamine, ethylamine là chất khí ở điều kiện thường, tan tốt trong nước, mùi khai giống ammonia (trimethylamine có mùi tanh của cá).
@@ -1613,17 +1918,17 @@ Nguyên tử N trong amine còn cặp electron tự do (giống NH₃) nên amin
 
 a) Tác dụng với nước (amine tan trong nước làm dung dịch có tính base yếu, làm quỳ tím chuyển xanh):
 
-$$CH_3NH_2 + H_2O \rightleftharpoons [CH_3NH_3]^+ + OH^-$$
+CH₃NH₂ + H₂O ⇌ [CH₃NH₃]⁺ + OH⁻
 
 Tổng quát: R–NH₂ + H₂O ⇌ [R–NH₃]⁺ + OH⁻.
 
 b) Tác dụng với acid tạo muối:
 
-$$CH_3NH_2 + HCl \rightarrow [CH_3NH_3]^+Cl^- \text{ (methylammonium chloride)}$$
+CH₃NH₂ + HCl → [CH₃NH₃]⁺Cl⁻ (methylammonium chloride)
 
-$$C_2H_5NH_2 + HCl \rightarrow [C_2H_5NH_3]^+Cl^-$$
+C₂H₅NH₂ + HCl → [C₂H₅NH₃]⁺Cl⁻
 
-$$C_6H_5NH_2 + HCl \rightarrow [C_6H_5NH_3]^+Cl^- \text{ (anilinium chloride / phenylammonium chloride)}$$
+C₆H₅NH₂ + HCl → [C₆H₅NH₃]⁺Cl⁻ (anilinium chloride / phenylammonium chloride)
 
 Muối ammonium của amine tan tốt trong nước. Đây là cơ sở để nhận biết và tách amine: amine không tan (như aniline) sẽ tan trong dung dịch HCl do tạo muối tan.
 
@@ -1637,7 +1942,7 @@ Giải thích sơ bộ: gốc alkyl (amine béo) đẩy electron làm tăng mậ
 
 Aniline tác dụng với nước bromine tạo kết tủa trắng 2,4,6-tribromoaniline. Đây là phản ứng nhận biết aniline.
 
-$$C_6H_5NH_2 + 3Br_2 \rightarrow C_6H_2Br_3NH_2 \downarrow + 3HBr$$
+C₆H₅NH₂ + 3Br₂ → C₆H₂Br₃NH₂↓ + 3HBr
 
 (2,4,6-tribromoaniline: vòng benzene còn 2 H, mang 3 Br ở vị trí 2, 4, 6 và nhóm –NH₂; kết tủa trắng đồng thời làm mất màu nước bromine.)
 
@@ -1647,7 +1952,7 @@ Nhóm –NH₂ hoạt hóa mạnh vòng benzene nên cả 3 vị trí ortho/para
 
 Aniline được điều chế bằng cách khử nitrobenzene bằng kim loại (Fe, Zn, Sn) trong môi trường acid HCl:
 
-$$C_6H_5NO_2 + 6[H] \xrightarrow{Fe/HCl} C_6H_5NH_2 + 2H_2O$$
+C₆H₅NO₂ + 6[H] → (Fe/HCl) C₆H₅NH₂ + 2H₂O
 
 Trong công nghiệp, quá trình khử có thể thực hiện bằng H₂ với xúc tác. Nitrobenzene được tạo ra trước đó từ benzene + HNO₃ đặc (xúc tác H₂SO₄ đặc) — chỉ cần biết ở mức sơ đồ: benzene → nitrobenzene → aniline.
 
@@ -1673,7 +1978,7 @@ Glutamic acid có 2 nhóm –COOH và 1 nhóm –NH₂. Muối monosodium glutam
 
 Trong phân tử amino acid, nhóm –COOH nhường proton cho nhóm –NH₂, tạo thành **ion lưỡng cực**:
 
-$$H_2N-CH_2-COOH \rightleftharpoons {}^+H_3N-CH_2-COO^-$$
+H₂N-CH₂-COOH ⇌ ⁺H₃N-CH₂-COO⁻
 
 Ion lưỡng cực mang đồng thời điện tích dương (ở –NH₃⁺) và điện tích âm (ở –COO⁻), tổng điện tích bằng 0. Vì tồn tại ở dạng ion nên amino acid thường là chất rắn kết tinh, nhiệt độ nóng chảy cao, tan tốt trong nước.
 
@@ -1683,21 +1988,31 @@ Do vừa có nhóm –NH₂ (tính base) vừa có nhóm –COOH (tính acid), a
 
 a) Tác dụng với acid mạnh (nhóm –NH₂ nhận H⁺):
 
-$$H_2N-CH_2-COOH + HCl \rightarrow Cl^- {}^+H_3N-CH_2-COOH$$
+H₂N-CH₂-COOH + HCl → Cl⁻ ⁺H₃N-CH₂-COOH
 
 Viết gọn: H₂N–CH₂–COOH + HCl → [HOOC–CH₂–NH₃]⁺Cl⁻.
 
 b) Tác dụng với base mạnh (nhóm –COOH nhường H⁺):
 
-$$H_2N-CH_2-COOH + NaOH \rightarrow H_2N-CH_2-COONa + H_2O$$
+H₂N-CH₂-COOH + NaOH → H₂N-CH₂-COONa + H₂O
 
 Lưu ý với glutamic acid: có 2 nhóm –COOH nên 1 mol glutamic acid tác dụng tối đa với 2 mol NaOH; ngược lại chỉ có 1 nhóm –NH₂ nên tác dụng với 1 mol HCl. Đây là dạng bài toán trung hòa hay ra trong đề khảo sát.
+
+### Tính điện di của amino acid theo pH
+
+Trong điện trường, amino acid di chuyển về điện cực tùy thuộc vào **điện tích tổng** của nó, mà điện tích này thay đổi theo pH của môi trường:
+
+- **Môi trường acid (pH thấp):** amino acid nhận thêm H⁺, nhóm –NH₂ chuyển thành –NH₃⁺ và nhóm –COO⁻ nhận H⁺ thành –COOH; phân tử mang điện tích **dương (cation)** nên di chuyển về **cực âm (catot)**.
+- **Môi trường base (pH cao):** amino acid nhả H⁺, nhóm –NH₃⁺ chuyển thành –NH₂ và nhóm –COOH nhả H⁺ thành –COO⁻; phân tử mang điện tích **âm (anion)** nên di chuyển về **cực dương (anot)**.
+- **Tại pH đẳng điện (pI):** amino acid tồn tại chủ yếu ở dạng **ion lưỡng cực** ⁺H₃N–CHR–COO⁻, tổng điện tích bằng 0 nên **không di chuyển** trong điện trường (đứng yên tại vạch xuất phát).
+
+Mẹo nhớ: **"acid thì dương, về âm; base thì âm, về dương; đúng pI thì đứng yên"** — ion luôn di chuyển về điện cực trái dấu với điện tích của nó.
 
 **4. Phản ứng ester hóa của nhóm –COOH**
 
 Nhóm –COOH của amino acid bị ester hóa bởi alcohol khi có acid mạnh làm xúc tác (ví dụ HCl khan). Ví dụ với glycine và ethanol:
 
-$$H_2N-CH_2-COOH + C_2H_5OH \xrightarrow{HCl} H_2N-CH_2-COOC_2H_5 + H_2O$$
+H₂N-CH₂-COOH + C₂H₅OH → (HCl) H₂N-CH₂-COOC₂H₅ + H₂O
 
 (Trong môi trường HCl, sản phẩm thường tồn tại dạng muối [⁺H₃N–CH₂–COOC₂H₅]Cl⁻; ở mức chương trình chỉ cần nắm đúng bản chất: nhóm –COOH + alcohol → ester + H₂O.)
 
@@ -1713,7 +2028,7 @@ Liên kết peptide là liên kết **–CO–NH–** được tạo thành gi�
 
 Ví dụ tạo dipeptide Gly–Ala từ glycine và alanine:
 
-$$H_2N-CH_2-COOH + H_2N-CH(CH_3)-COOH \rightarrow H_2N-CH_2-CO-NH-CH(CH_3)-COOH + H_2O$$
+H₂N-CH₂-COOH + H₂N-CH(CH₃)-COOH → H₂N-CH₂-CO-NH-CH(CH₃)-COOH + H₂O
 
 **2. Phân loại**
 
@@ -1728,7 +2043,7 @@ Cách viết tên peptide: viết tắt tên các amino acid theo thứ tự t�
 
 Peptide bị thủy phân trong môi trường acid hoặc base (đun nóng), hoặc nhờ enzyme, cắt đứt các liên kết peptide và thu lại các amino acid:
 
-$$Gly-Ala + H_2O \xrightarrow{H^+,\, t^\circ} Gly + Ala$$
+Gly-Ala + H₂O → (H⁺, t°) Gly + Ala
 
 Tổng quát: peptide có n gốc + (n − 1) H₂O → n amino acid. Thủy phân không hoàn toàn thu được các peptide ngắn hơn.
 
@@ -1860,13 +2175,17 @@ b) Glycine tác dụng được với cả dung dịch HCl và dung dịch NaOH.
 c) Dipeptide Gly–Ala cho phản ứng biuret tạo màu tím với Cu(OH)₂/NaOH.
 d) Protein bị đông tụ khi đun nóng hoặc khi cho muối của kim loại nặng vào.
 
-#### Phần III. Trả lời ngắn / tính toán (3 câu)
+#### Phần III. Trả lời ngắn / tính toán (5 câu)
 
 **Câu 9.12.** Đốt cháy hoàn toàn 4,5 gam ethylamine (C₂H₅NH₂) trong oxygen dư, thu được CO₂, H₂O và N₂. Tính thể tích khí CO₂ thu được ở điều kiện chuẩn (đkc, 24,79 L/mol). *(Ghi kết quả theo đơn vị lít.)*
 
 **Câu 9.13.** Cho 7,35 gam glutamic acid (HOOC–CH₂–CH₂–CH(NH₂)–COOH, M = 147) tác dụng với dung dịch NaOH dư. Tính thể tích dung dịch NaOH 1 M đã phản ứng. *(Ghi kết quả theo đơn vị mL.)*
 
 **Câu 9.14.** Tripeptide Gly–Ala–Gly được tạo thành từ glycine (M = 75) và alanine (M = 89). Tính phân tử khối của tripeptide này. *(Ghi kết quả là một số nguyên.)*
+
+**Câu 9.15.** Cho 14,7 g glutamic acid (HOOC–CH₂–CH₂–CH(NH₂)–COOH, khối lượng mol 147 g/mol) tác dụng với dung dịch HCl dư. Biết lượng HCl ban đầu đã dùng là 0,5 mol. Sau đó cho dung dịch NaOH dư vào toàn bộ dung dịch thu được. Tính tổng số mol NaOH đã phản ứng, theo mol.
+
+**Câu 9.16.** Thủy phân hoàn toàn 20,3 g một tripeptide gồm hai gốc glycine và một gốc alanine (Gly–Gly–Ala) bằng dung dịch acid, đun nóng. Tính tổng khối lượng các amino acid thu được, theo gam. Cho khối lượng mol: glycine = 75 g/mol; alanine = 89 g/mol; tripeptide Gly–Gly–Ala = 203 g/mol; nước = 18 g/mol.
 
 ---
 
@@ -1881,7 +2200,7 @@ d) Protein bị đông tụ khi đun nóng hoặc khi cho muối của kim loạ
 - **Mắt xích** là đơn vị cấu trúc lặp lại trong mạch polymer. Ví dụ: mắt xích của polyethylene là –CH₂–CH₂–.
 - **Hệ số trùng hợp (hệ số polymer hóa), kí hiệu n:** là số mắt xích trung bình trong một phân tử polymer. Công thức liên hệ:
 
-$$n = \frac{M_{polymer}}{M_{\text{mắt xích}}}$$
+n = M_polymer / M_mắt xích
 
 - Cách viết công thức polymer: đặt mắt xích trong ngoặc đơn với chỉ số n ở ngoài, ví dụ polyethylene: (–CH₂–CH₂–)ₙ.
 
@@ -1899,6 +2218,26 @@ b) Theo phương pháp tổng hợp:
 - **Polymer trùng hợp:** tạo thành bằng phản ứng trùng hợp (PE, PP, PVC, PS, nitron, PMMA, cao su buna...).
 - **Polymer trùng ngưng:** tạo thành bằng phản ứng trùng ngưng (nylon-6,6, PET...).
 
+### Phân loại tơ và phân loại mạch polymer
+
+**Bảng phân loại tơ theo nguồn gốc — 3 nhóm:**
+
+| Nhóm tơ | Bản chất | Ví dụ |
+|---|---|---|
+| Tơ thiên nhiên | Có sẵn trong tự nhiên, dùng trực tiếp | Bông (cellulose), len (protein của lông cừu), tơ tằm (protein) |
+| Tơ bán tổng hợp (tơ nhân tạo) | Từ polymer thiên nhiên đem biến tính hóa học | Tơ visco, tơ cellulose acetate — đều đi từ cellulose tự nhiên |
+| Tơ tổng hợp | Tổng hợp hoàn toàn từ các monomer nhỏ | Nylon-6,6, tơ olon (nitron), tơ lapsan (PET) |
+
+**Điểm bẫy hay gặp:** tơ visco và tơ cellulose acetate thường bị xếp nhầm vào tơ tổng hợp. Cách phân biệt: nguyên liệu gốc của chúng là **cellulose có sẵn trong tự nhiên** (bột gỗ, bông) chỉ qua xử lí hóa học, nên chúng thuộc nhóm **bán tổng hợp**, không phải tổng hợp.
+
+**Phân loại polymer theo cấu trúc mạch — 3 dạng:**
+
+- **Mạch không phân nhánh (mạch thẳng):** các mắt xích nối thành một chuỗi dài duy nhất. Ví dụ: polyethylene (PE), poly(vinyl chloride) (PVC), amylose.
+- **Mạch phân nhánh:** chuỗi chính có các nhánh bên. Ví dụ: **amylopectin** và **glycogen** (đều là polymer của glucose có nhánh), polyethylene mật độ thấp (LDPE).
+- **Mạch mạng không gian (mạng lưới):** các chuỗi được nối với nhau bằng cầu nối ngang thành mạng ba chiều, không tan, không nóng chảy. Ví dụ: **cao su lưu hóa** (cầu nối disulfide –S–S– giữa các chuỗi), **nhựa bakelite**.
+
+Hệ quả tính chất cần nhớ: polymer mạng không gian **cứng, bền nhiệt, không bị nóng chảy**; polymer mạch thẳng thường nhiệt dẻo (nóng chảy, tái chế được); mạch phân nhánh làm giảm độ kết tinh và độ bền cơ học so với mạch thẳng tương ứng.
+
 #### 10.3. Phản ứng trùng hợp
 
 **Định nghĩa:** Trùng hợp là quá trình kết hợp nhiều phân tử monomer giống nhau (hoặc tương tự nhau) thành phân tử polymer có phân tử khối lớn, **không** tách ra phân tử nhỏ nào khác.
@@ -1907,7 +2246,7 @@ b) Theo phương pháp tổng hợp:
 
 Ví dụ tiêu biểu — trùng hợp ethylene tạo PE (xúc tác, nhiệt độ, áp suất):
 
-$$n\,CH_2=CH_2 \xrightarrow{t^\circ,\, p,\, xt} (-CH_2-CH_2-)_n$$
+n CH₂=CH₂ → (t°, p, xt) (–CH₂-CH₂–)ₙ
 
 #### 10.4. Phản ứng trùng ngưng
 
@@ -1923,31 +2262,31 @@ Ví dụ tiêu biểu — trùng ngưng tạo nylon-6,6 (xem mục 10.5): hexame
 
 **1. Polyethylene (PE)** — từ ethylene, trùng hợp:
 
-$$n\,CH_2=CH_2 \xrightarrow{t^\circ,\, p,\, xt} (-CH_2-CH_2-)_n$$
+n CH₂=CH₂ → (t°, p, xt) (–CH₂-CH₂–)ₙ
 
 Ứng dụng: túi nylon, màng bọc, chai lọ, ống nhựa.
 
 **2. Polypropylene (PP)** — từ propylene CH₂=CH–CH₃, trùng hợp:
 
-$$n\,CH_2=CH-CH_3 \xrightarrow{t^\circ,\, p,\, xt} \left(-CH_2-CH(CH_3)-\right)_n$$
+n CH₂=CH-CH₃ → (t°, p, xt) (–CH₂-CH(CH₃)–)ₙ
 
 Ứng dụng: hộp đựng thực phẩm, ống nước, sợi, chi tiết nhựa chịu nhiệt tốt hơn PE.
 
 **3. Poly(vinyl chloride) (PVC)** — từ vinyl chloride CH₂=CH–Cl, trùng hợp:
 
-$$n\,CH_2=CHCl \xrightarrow{t^\circ,\, p,\, xt} (-CH_2-CHCl-)_n$$
+n CH₂=CHCl → (t°, p, xt) (–CH₂-CHCl–)ₙ
 
 Ứng dụng: ống nước, dây cáp điện, áo mưa, sàn nhựa.
 
 **4. Polystyrene (PS)** — từ styrene C₆H₅–CH=CH₂, trùng hợp:
 
-$$n\,C_6H_5-CH=CH_2 \xrightarrow{t^\circ,\, p,\, xt} \left(-CH_2-CH(C_6H_5)-\right)_n$$
+n C₆H₅-CH=CH₂ → (t°, p, xt) (–CH₂-CH(C₆H₅)–)ₙ
 
 Ứng dụng: hộp xốp, vỏ thiết bị, đồ nhựa dùng một lần.
 
 **5. Cao su buna** — từ buta-1,3-diene CH₂=CH–CH=CH₂, trùng hợp (xúc tác Na — "buna" từ butadiene + natri):
 
-$$n\,CH_2=CH-CH=CH_2 \xrightarrow{t^\circ,\, p,\, Na} (-CH_2-CH=CH-CH_2-)_n$$
+n CH₂=CH-CH=CH₂ → (t°, p, Na) (–CH₂-CH=CH-CH₂–)ₙ
 
 Lưu ý: mắt xích cao su buna vẫn còn 1 liên kết đôi C=C — đây là vị trí để lưu hóa cao su bằng sulfur.
 
@@ -1956,19 +2295,19 @@ Lưu ý: mắt xích cao su buna vẫn còn 1 liên kết đôi C=C — đây l�
 
 **6. Tơ nylon-6,6** — trùng ngưng hexamethylenediamine và adipic acid. Tên "6,6" vì mỗi monomer đều có 6 carbon.
 
-$$n\,H_2N-(CH_2)_6-NH_2 + n\,HOOC-(CH_2)_4-COOH \rightarrow \left(-NH-(CH_2)_6-NH-CO-(CH_2)_4-CO-\right)_n + 2n\,H_2O$$
+n H₂N-(CH₂)₆-NH₂ + n HOOC-(CH₂)₄-COOH → (–NH-(CH₂)₆-NH-CO-(CH₂)₄-CO–)ₙ + 2n H₂O
 
 Ứng dụng: dệt vải, chỉ, dây dù, bàn chải.
 
 **7. Tơ nitron (tơ olon)** — trùng hợp acrylonitrile CH₂=CH–CN:
 
-$$n\,CH_2=CH-CN \xrightarrow{t^\circ,\, p,\, xt} (-CH_2-CH(CN)-)_n$$
+n CH₂=CH-CN → (t°, p, xt) (–CH₂-CH(CN)–)ₙ
 
 Ứng dụng: dệt len nhân tạo, vải ấm (tơ nitron thuộc loại tơ acrylic).
 
 **8. PET — poly(ethylene terephthalate)** — trùng ngưng terephthalic acid và ethylene glycol (mức cơ bản):
 
-$$n\,HOOC-C_6H_4-COOH + n\,HO-CH_2-CH_2-OH \rightarrow \left(-CO-C_6H_4-CO-O-CH_2-CH_2-O-\right)_n + 2n\,H_2O$$
+n HOOC-C₆H₄-COOH + n HO-CH₂-CH₂-OH → (–CO-C₆H₄-CO-O-CH₂-CH₂-O–)ₙ + 2n H₂O
 
 (C₆H₄ là vòng benzene còn 2 vị trí thế ở vị trí para.) Ứng dụng: chai nhựa đựng nước, tơ polyester (vải).
 
@@ -2104,7 +2443,33 @@ d) Vật liệu composite gồm vật liệu nền và vật liệu cốt; sợi
 
 # ĐÁP ÁN VÀ LỜI GIẢI
 
-*Đáp án trắc nghiệm, đúng/sai và lời giải các câu trả lời ngắn của toàn bộ 10 chuyên đề. Hãy làm bài trước, dò đáp án sau.*
+*Đáp án trắc nghiệm, đúng/sai và lời giải các câu trả lời ngắn của Phụ lục N và toàn bộ 10 chuyên đề. Hãy làm bài trước, dò đáp án sau.*
+
+## Phụ lục N: Nền tảng lớp 10–11
+
+### N.1 — Biến thiên enthalpy chuẩn của phản ứng
+
+**Câu N.1.1:** a) Đúng. b) Đúng. c) Sai — theo năng lượng liên kết phải lấy tổng Eb của **chất đầu (liên kết bị phá vỡ) trừ** tổng Eb của **sản phẩm (liên kết hình thành)**, ngược với cách tính theo nhiệt tạo thành. d) Đúng — phản ứng tạo thành 2 mol H₂O(l) tỏa 571,6 kJ nên tạo thành 1 mol H₂O(l) có ΔfH°₂₉₈ = −571,6/2 = −285,8 kJ/mol.
+
+**Câu N.1.2:** Đáp án: **−2219,9 kJ**.
+
+ΣΔfH°₂₉₈(sản phẩm) = 3 × (−393,5) + 4 × (−285,8) = −1180,5 − 1143,2 = −2323,7 kJ.
+ΣΔfH°₂₉₈(chất đầu) = −103,8 + 5 × 0 = −103,8 kJ.
+ΔrH°₂₉₈ = −2323,7 − (−103,8) = −2219,9 kJ. Dấu âm: phản ứng tỏa nhiệt.
+
+**Câu N.1.3:** Đáp án: **−1247 kJ**.
+
+Liên kết bị phá vỡ: 5 C–H (5 × 413 = 2065) + 1 C–C (347) + 1 C–O (358) + 1 O–H (463) + 3 O=O (3 × 498 = 1494). Tổng = 2065 + 347 + 358 + 463 + 1494 = 4727 kJ.
+Liên kết hình thành: 2 CO₂ có 4 liên kết C=O (4 × 799 = 3196); 3 H₂O có 6 liên kết O–H (6 × 463 = 2778). Tổng = 3196 + 2778 = 5974 kJ.
+ΔrH°₂₉₈ = 4727 − 5974 = −1247 kJ. Dấu âm: phản ứng tỏa nhiệt.
+
+### N.2 — Đếm liên kết σ và π
+
+**Câu N.2.1:** a) Đúng — liên kết đôi = 1σ + 1π. b) Đúng — 3 liên kết C=C góp 3π và 3 liên kết C=O góp 3π, tổng 6π. c) Đúng — phân tử không vòng nên số σ = tổng số nguyên tử − 1 = (57 + 104 + 6) − 1 = 167 − 1 = 166. d) Sai — liên kết với H cũng là liên kết σ; triolein có 104 nguyên tử H, bỏ qua sẽ thiếu hơn một nửa số liên kết σ.
+
+**Câu N.2.2:** Đáp án: **6 liên kết σ và 1 liên kết π**. Cách đếm: CH₃ góp 3 liên kết C–H và 1 liên kết C–C (4σ); carbon của –CHO góp 1 liên kết tới O của C=O (1σ) và 1 liên kết C–H (1σ); tổng 6σ, khớp kiểm tra chéo 7 nguyên tử − 1 = 6. Liên kết π: 1 liên kết đôi C=O góp 1π.
+
+---
 
 ## Chuyên đề 1: Phổ hồng ngoại (IR)
 
@@ -2122,6 +2487,7 @@ d) Vật liệu composite gồm vật liệu nền và vật liệu cốt; sợi
 | 1.8 | **B** | Acetic acid có C=O mạnh ~1710 cm⁻¹ kèm O–H rất rộng 2500–3300 cm⁻¹; ethanol không có C=O. Cả hai đều có C–H nên (A) sai. |
 | 1.9 | **C** | Vùng 2850–3000 cm⁻¹ đặc trưng cho dao động C–H. |
 | 1.10 | **B** | Dải O–H rộng ở 3350 cm⁻¹ + pic C–O ở 1085 cm⁻¹, không có pic C=O → alcohol. |
+| 1.15 | **B** | Pic mạnh, nhọn ở ~1715 cm⁻¹ trên phổ IR của acetic acid là C=O. |
 
 ### Đúng / Sai
 
@@ -2142,6 +2508,8 @@ d) Vật liệu composite gồm vật liệu nền và vật liệu cốt; sợi
 **Câu 1.14.** Phổ A là của **propanone (acetone, CH₃COCH₃)**.
 *Lý do:* propanone có C=O (pic mạnh ~1715 cm⁻¹) nhưng không có nhóm –OH nên không có dải O–H rộng. Ethanol không có C=O; acetic acid có C=O nhưng kèm dải O–H rất rộng.
 
+**Câu 1.16.** Dải rộng 2500–3300 cm⁻¹ là dải O–H của **acid carboxylic**. Phân biệt được với alcohol vì: (1) dải của acid carboxylic rộng hơn hẳn và tù hơn, chồng lấn sang cả vùng hấp thụ C–H (~2900 cm⁻¹); (2) phổ của acid carboxylic còn kèm pic C=O mạnh, nhọn ở khoảng 1715 cm⁻¹. Trong khi đó, O–H của alcohol thường nằm ở 3200–3600 cm⁻¹ (hẹp hơn) và alcohol không có pic C=O.
+
 ---
 
 ## Chuyên đề 2: Phổ khối lượng (MS)
@@ -2160,6 +2528,7 @@ d) Vật liệu composite gồm vật liệu nền và vật liệu cốt; sợi
 | 2.8 | **B** | Cần phân tử khối từ M⁺• kết hợp % các nguyên tố để suy số nguyên tử mỗi nguyên tố. |
 | 2.9 | **B** | Mẫu được ion hóa trước, tạo M⁺• và các ion mảnh, rồi mới tách theo m/z. |
 | 2.10 | **B** | CH₃⁷⁹Br: 12 + 3 + 79 = 94; CH₃⁸¹Br: 12 + 3 + 81 = 96; hai đồng vị Br tỉ lệ ~1 : 1 nên hai pic gần bằng nhau. |
+| 2.15 | **C** | Pic cơ sở (cường độ 100%) của phổ MS ethyl acetate ở m/z = 43. |
 
 ### Đúng / Sai
 
@@ -2183,6 +2552,8 @@ d) Vật liệu composite gồm vật liệu nền và vật liệu cốt; sợi
 
 **Câu 2.14.** Pic M⁺• của ethanol ở **m/z = 46**.
 *Tính:* M(C₂H₆O) = 2×12 + 6×1 + 16 = 24 + 6 + 16 = **46**.
+
+**Câu 2.16.** Phân tử khối **M = 88**. Pic ion phân tử M⁺• là pic tại **m/z 88** (cường độ tương đối 24% trên thang pic cơ sở). Không chọn pic m/z 89 vì đó là pic **M+1** do đồng vị ¹³C: ethyl acetate có 4 nguyên tử carbon, mỗi nguyên tử có khoảng 1,1% khả năng là ¹³C, nên pic M+1 có cường độ khoảng 4 × 1,1% ≈ 4–5% **so với pic M⁺•** (m/z 88), tương đương chỉ khoảng 1% trên thang pic cơ sở — vì thế cột m/z 89 rất thấp so với cột 88 trên biểu đồ, và không được chọn 89 làm ion phân tử.
 
 ---
 
@@ -2387,7 +2758,7 @@ Giải thích nhanh:
 - c) **Đúng** — ôi dầu do nối đôi C=C của gốc acid béo không no bị oxi không khí oxi hóa.
 - d) **Sai** — xà phòng **kém** hiệu quả trong nước cứng vì muối của acid béo tạo kết tủa với Ca²⁺, Mg²⁺; chất giặt rửa tổng hợp mới dùng tốt trong nước cứng.
 
-### Phần III. Trả lời ngắn / tính toán (Câu 7.12 – 7.14)
+### Phần III. Trả lời ngắn / tính toán (Câu 7.12 – 7.19)
 
 **Câu 7.12.** Chỉ số xà phòng hóa = **196**.
 - n(KOH ban đầu) = 0,5 × 0,020 = 0,010 mol.
@@ -2405,6 +2776,36 @@ Giải thích nhanh:
 - n(tristearin) = 8,9 / 890 = 0,01 mol.
 - (a) n(NaOH) = 3 × 0,01 = 0,03 mol → m(NaOH) = 0,03 × 40 = **1,2 g**.
 - (b) n(glycerol) = 0,01 mol → m(glycerol) = 0,01 × 92 = **0,92 g**.
+
+**Câu 7.15.** Bước 1 — Số mol từng chất: n(tripalmitin) = 40,3/806 = 0,05 mol; n(palmitic acid) = 12,8/256 = 0,05 mol.
+Bước 2 — Số mol muối tạo thành từ mỗi phản ứng. Tripalmitin + 3NaOH → 3C₁₅H₃₁COONa + glycerol, nên 0,05 mol tripalmitin tạo 0,15 mol muối. Palmitic acid + NaOH → C₁₅H₃₁COONa + H₂O, nên 0,05 mol acid tạo 0,05 mol muối. Tổng n(muối) = 0,15 + 0,05 = 0,20 mol.
+Bước 3 — Khối lượng muối: m = 0,20 × 278 = 55,6 g.
+Kiểm tra bằng bảo toàn khối lượng: NaOH đã dùng = 0,15 + 0,05 = 0,20 mol, tức 8,0 g. Tổng khối lượng chất phản ứng = 40,3 + 12,8 + 8,0 = 61,1 g. Sản phẩm phụ: glycerol 0,05 × 92 = 4,6 g và nước — **chỉ** sinh ra ở phản ứng của acid béo tự do: 0,05 × 18 = 0,9 g (phản ứng xà phòng hóa chất béo **không** sinh nước). Tổng sản phẩm = 55,6 + 4,6 + 0,9 = 61,1 g, khớp bảo toàn khối lượng.
+Đáp án: **55,6 g**.
+
+**Câu 7.16.** Bước 1 — Điểm bẫy: phenyl acetate là ester của phenol nên thủy phân trong NaOH theo tỉ lệ **1:2**, không phải 1:1 như ester của alcohol. Phương trình tổng:
+CH₃COOC₆H₅ + 2NaOH → CH₃COONa + C₆H₅ONa + H₂O.
+Lí do: bước đầu tạo CH₃COOH và C₆H₅OH, cả hai đều tiếp tục phản ứng với NaOH (phenol có tính acid yếu vẫn phản ứng với NaOH).
+Bước 2 — Số mol ester: n = 13,6/136 = 0,10 mol. Theo tỉ lệ, tạo 0,10 mol CH₃COONa và 0,10 mol C₆H₅ONa.
+Bước 3 — Tổng khối lượng muối: m = 0,10 × 82 + 0,10 × 116 = 8,2 + 11,6 = 19,8 g.
+Đáp án: **19,8 g**.
+
+**Câu 7.17.** Bước 1 — Glycerol có 3 vị trí gắn gốc acid: hai vị trí đầu (1 và 3) đối xứng nhau, còn vị trí giữa (2) khác biệt với hai vị trí đầu. Vì vậy không thể chỉ đếm theo thành phần: cùng một thành phần nhưng gốc khác nhau nằm ở vị trí giữa hay ở vị trí đầu sẽ cho triester khác nhau.
+Bước 2 — Đếm theo vị trí: vị trí giữa có 2 lựa chọn (A hoặc B); cặp hai vị trí đầu có 3 lựa chọn (AA, AB, BB) — cặp AB và BA ở hai đầu là một vì hai đầu đối xứng. Tổng số triester = 2 × 3 = 6.
+Bước 3 — Liệt kê theo bộ ba (vị trí 1, vị trí 2, vị trí 3): AAA; ABA (B ở giữa); BAA (B ở một đầu); BBB; BAB (A ở giữa); ABB (A ở một đầu). Có đúng 6 triester.
+Bẫy cần tránh: nếu chỉ đếm theo thành phần đơn thuần AAA / AAB / ABB / BBB thì chỉ được 4, vì cách đếm đó bỏ qua sự khác biệt của vị trí giữa — ví dụ AAB thực ra gồm hai chất khác nhau là ABA (B ở giữa) và BAA (B ở một đầu).
+Đáp án: **6 triester**.
+
+**Câu 7.18.** Bước 1 — Số mol KOH ban đầu: n(KOH đầu) = 0,025 × 0,5 = 0,0125 mol.
+Bước 2 — Số mol KOH dư bằng số mol HCl đã chuẩn độ (tỉ lệ 1:1): n(KOH dư) = 0,010 × 0,5 = 0,005 mol.
+Bước 3 — Số mol KOH đã phản ứng với chất béo: n = 0,0125 − 0,005 = 0,0075 mol. Khối lượng KOH đã phản ứng: m = 0,0075 × 56 = 0,42 g = 420 mg.
+Bước 4 — Chỉ số xà phòng hóa: SV = 420 mg/2,0 g = 210 mg KOH cho 1 g chất béo.
+Đáp án: **210**.
+
+**Câu 7.19.** Bước 1 — Số mol tristearin: n = 17,8/890 = 0,02 mol.
+Bước 2 — Phương trình: (C₁₇H₃₅COO)₃C₃H₅ + 3NaOH → 3C₁₇H₃₅COONa + C₃H₅(OH)₃. Tỉ lệ tristearin : glycerol = 1:1 nên n(glycerol) = 0,02 mol.
+Bước 3 — Khối lượng glycerol: m = 0,02 × 92 = 1,84 g.
+Đáp án: **1,84 g**.
 
 ---
 
@@ -2439,7 +2840,7 @@ Giải thích nhanh:
 - c) **Sai** — cùng công thức (C₆H₁₀O₅)ₙ nhưng người **không** tiêu hóa được cellulose (thiếu enzyme), chỉ tiêu hóa được tinh bột.
 - d) **Đúng** — (C₆H₁₀O₅)ₙ + nH₂O → nC₆H₁₂O₆.
 
-### Phần III. Trả lời ngắn / tính toán (Câu 8.12 – 8.14)
+### Phần III. Trả lời ngắn / tính toán (Câu 8.12 – 8.18)
 
 **Câu 8.12.** Khối lượng ethanol = **5,52 g**.
 - n(mắt xích tinh bột) = 16,2 / 162 = 0,1 mol → n(glucose) lí thuyết = 0,1 mol; sau thủy phân (H = 80%): 0,08 mol.
@@ -2453,6 +2854,30 @@ Giải thích nhanh:
 **Câu 8.14.** Khối lượng glucose cần dùng = **45 g**.
 - n(ethanol) = 18,4 / 46 = 0,4 mol → n(glucose) lí thuyết = 0,2 mol → m lí thuyết = 0,2 × 180 = 36 g.
 - Vì H = 80%: m(glucose) thực tế cần dùng = 36 / 0,8 = **45 g**.
+
+**Câu 8.15.** Bước 1 — Khối lượng tinh bột: m = 100 × 80/100 = 80 kg. Số mol mắt xích tinh bột: n = 80000/162 mol.
+Bước 2 — Theo sơ đồ, 1 mol mắt xích tinh bột (162 g) tạo tối đa 2 mol ethanol (92 g). Khối lượng ethanol lí thuyết: m = 80 × 92/162 = 45,43 kg.
+Bước 3 — Áp hiệu suất 80%: m(ethanol thực tế) = 45,43 × 80/100 = 36,35 kg.
+Bước 4 — Thể tích ethanol nguyên chất: V = 36350 g/(0,8 g/mL) = 45432 mL ≈ 45,43 L.
+Bước 5 — Thể tích dung dịch ethanol 40°: V(dung dịch) = 45,43/40 × 100 = 113,6 L (làm tròn một chữ số thập phân).
+Đáp án: **113,6 L**.
+
+**Câu 8.16.** Bước 1 — Khối lượng tinh bột: m = 200 × 75/100 = 150 kg.
+Bước 2 — Khối lượng ethanol lí thuyết: m = 150 × 92/162 = 85,19 kg.
+Bước 3 — Áp hiệu suất 75%: m(ethanol thực tế) = 85,19 × 75/100 = 63,89 kg.
+Bước 4 — Thể tích ethanol nguyên chất: V = 63890 g/(0,8 g/mL) = 79861 mL ≈ 79,86 L.
+Đáp án: **79,86 L**.
+
+**Câu 8.17.** Bước 1 — Thể tích ethanol nguyên chất cần có trong 1000 L xăng E5: V = 1000 × 5/100 = 50 L. Khối lượng ethanol cần thu được: m = 50000 mL × 0,8 g/mL = 40000 g = 40 kg.
+Bước 2 — Vì hiệu suất chỉ đạt 80%, khối lượng ethanol theo lí thuyết phải tạo ra là: m(lí thuyết) = 40/80 × 100 = 50 kg.
+Bước 3 — Khối lượng tinh bột cần thiết: theo tỉ lệ 162 g tinh bột → 92 g ethanol, nên m(tinh bột) = 50 × 162/92 = 88,04 kg.
+Bước 4 — Khối lượng gạo (chứa 80% tinh bột): m(gạo) = 88,04/0,8 = 110,05 kg, làm tròn thành 110,1 kg.
+Đáp án: **110,1 kg**.
+
+**Câu 8.18.** Bước 1 — Phần ethanol: thể tích 50 mL, khối lượng 50 × 0,8 = 40 g, số mol = 40/46 = 0,8696 mol. Mỗi mol ethanol tạo 2 mol CO₂ nên n(CO₂ từ ethanol) = 1,739 mol.
+Bước 2 — Phần octane: thể tích 950 mL, khối lượng 950 × 0,7 = 665 g, số mol = 665/114 = 5,833 mol. Mỗi mol octane tạo 8 mol CO₂ nên n(CO₂ từ octane) = 5,833 × 8 = 46,667 mol.
+Bước 3 — Tổng số mol CO₂: n = 1,739 + 46,667 = 48,406 mol. Thể tích ở điều kiện chuẩn: V = 48,406 × 24,79 = 1200 L (làm tròn đến hàng đơn vị).
+Đáp án: **1200 L**.
 
 
 ---
@@ -2500,6 +2925,19 @@ V(CO₂) ở đkc = 0,2 × 24,79 = **4,958 L**.
 Lời giải: n(glutamic acid) = 7,35 / 147 = 0,05 mol. Glutamic acid có **2 nhóm –COOH** nên phản ứng với NaOH theo tỉ lệ 1 : 2: n(NaOH) = 2 × 0,05 = 0,1 mol → V = 0,1 / 1 = 0,1 L = **100 mL**. (Bẫy: quên nhóm –COOH thứ hai sẽ ra đáp án sai 50 mL.)
 
 **Câu 9.14. Đáp án: 203.**
+
+**Câu 9.15.** Bước 1 — Số mol glutamic acid: n(Glu) = 14,7/147 = 0,10 mol. Phân tử Glu có **2 nhóm –COOH và 1 nhóm –NH₂**.
+Bước 2 — Giai đoạn 1 (thêm HCl dư): nhóm –NH₂ nhận H⁺ thành –NH₃⁺ Cl⁻, tiêu tốn 0,10 mol HCl. Hai nhóm –COOH giữ nguyên dạng –COOH (đã ở dạng acid). Vậy HCl còn dư tự do trong dung dịch: 0,5 − 0,10 = 0,40 mol.
+Bước 3 — Giai đoạn 2 (thêm NaOH dư), NaOH phản ứng với ba đối tượng: (i) trung hòa HCl dư tự do: 0,40 mol; (ii) phản ứng với 2 nhóm –COOH của mỗi Glu: 2 × 0,10 = 0,20 mol; (iii) phản ứng với nhóm –NH₃⁺ (nhả H⁺, trả lại –NH₂): 0,10 mol.
+Bước 4 — Tổng số mol NaOH đã phản ứng: n = 0,40 + 0,20 + 0,10 = 0,70 mol.
+Lưu ý bẫy: nếu quên HCl dư tự do sẽ ra 0,30 mol; nếu quên nhóm –NH₃⁺ cũng phản ứng với NaOH sẽ ra 0,60 mol. Cả hai đều sai.
+Đáp án: **0,70 mol**.
+
+**Câu 9.16.** Bước 1 — Số mol tripeptide: n = 20,3/203 = 0,10 mol.
+Bước 2 — Phản ứng thủy phân: 1 phân tử tripeptide có 2 liên kết peptide nên cần 2 phân tử H₂O, tạo 2 phân tử glycine và 1 phân tử alanine.
+Bước 3 — Cách 1 (theo sản phẩm): m = 0,10 × (2 × 75 + 1 × 89) = 0,10 × 239 = 23,9 g.
+Bước 4 — Cách 2 (kiểm tra bằng bảo toàn khối lượng): khối lượng amino acid = khối lượng peptide + khối lượng nước đã tham gia = 20,3 + 0,10 × 2 × 18 = 20,3 + 3,6 = 23,9 g. Hai cách khớp nhau.
+Đáp án: **23,9 g**.
 
 Lời giải: Tripeptide tạo từ 3 phân tử amino acid, tách ra 3 − 1 = 2 phân tử H₂O:
 M = 75 (Gly) + 89 (Ala) + 75 (Gly) − 2 × 18 = 239 − 36 = **203**.
